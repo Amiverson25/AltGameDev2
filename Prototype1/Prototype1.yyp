@@ -6,7 +6,7 @@
     {"id":{"name":"objStartGameButton","path":"objects/objStartGameButton/objStartGameButton.yy",},"order":2,},
     {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},"order":1,},
     {"id":{"name":"sprDialogBubble","path":"sprites/sprDialogBubble/sprDialogBubble.yy",},"order":0,},
-    {"id":{"name":"text_box","path":"sprites/text_box/text_box.yy",},"order":2,},
+    {"id":{"name":"text_box_dialog","path":"sprites/text_box_dialog/text_box_dialog.yy",},"order":2,},
     {"id":{"name":"objGameManager","path":"objects/objGameManager/objGameManager.yy",},"order":3,},
     {"id":{"name":"fntDialogBubble","path":"fonts/fntDialogBubble/fntDialogBubble.yy",},"order":0,},
     {"id":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"order":0,},
