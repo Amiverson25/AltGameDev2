@@ -26,6 +26,7 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"70ec4ccc-5e49-4eb2-a604-271dd6dd20ba","path":"sprites/Sprite4/Sprite4.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"70ec4ccc-5e49-4eb2-a604-271dd6dd20ba","path":"sprites/Sprite4/Sprite4.yy",},"LayerId":{"name":"c97aa3ab-6125-4ab1-a296-23e3838803d9","path":"sprites/Sprite4/Sprite4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"70ec4ccc-5e49-4eb2-a604-271dd6dd20ba","path":"sprites/Sprite4/Sprite4.yy",},"LayerId":{"name":"c97aa3ab-6125-4ab1-a296-23e3838803d9","path":"sprites/Sprite4/Sprite4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"resourceVersion":"1.0","name":"70ec4ccc-5e49-4eb2-a604-271dd6dd20ba","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
