@@ -10,6 +10,7 @@
     {"id":{"name":"objGameManager","path":"objects/objGameManager/objGameManager.yy",},"order":3,},
     {"id":{"name":"fntDialogBubble","path":"fonts/fntDialogBubble/fntDialogBubble.yy",},"order":0,},
     {"id":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"order":0,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
