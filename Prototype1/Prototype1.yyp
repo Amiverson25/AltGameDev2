@@ -35,6 +35,7 @@
     {"id":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"order":0,},
     {"id":{"name":"Pave_Walkway","path":"sprites/Pave_Walkway/Pave_Walkway.yy",},"order":1,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
+    {"id":{"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},"order":2,},
     {"id":{"name":"House02","path":"sprites/House02/House02.yy",},"order":14,},
     {"id":{"name":"Pavement","path":"sprites/Pavement/Pavement.yy",},"order":2,},
     {"id":{"name":"Ocean_Water_Animated","path":"sprites/Ocean_Water_Animated/Ocean_Water_Animated.yy",},"order":0,},
@@ -57,6 +58,7 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"Room1","path":"rooms/Room1/Room1.yy",},
     {"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},
   ],
