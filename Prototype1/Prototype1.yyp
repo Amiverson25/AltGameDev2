@@ -4,6 +4,7 @@
     {"id":{"name":"DrawNineSlice","path":"scripts/DrawNineSlice/DrawNineSlice.yy",},"order":0,},
     {"id":{"name":"Post","path":"sprites/Post/Post.yy",},"order":17,},
     {"id":{"name":"Tree","path":"sprites/Tree/Tree.yy",},"order":20,},
+    {"id":{"name":"white_Highlight","path":"sprites/white_Highlight/white_Highlight.yy",},"order":22,},
     {"id":{"name":"sprButton","path":"sprites/sprButton/sprButton.yy",},"order":1,},
     {"id":{"name":"House03","path":"sprites/House03/House03.yy",},"order":15,},
     {"id":{"name":"Ocean_Water03","path":"sprites/Ocean_Water03/Ocean_Water03.yy",},"order":3,},
@@ -36,6 +37,7 @@
     {"id":{"name":"Pave_Walkway","path":"sprites/Pave_Walkway/Pave_Walkway.yy",},"order":1,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
     {"id":{"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},"order":2,},
+    {"id":{"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},"order":3,},
     {"id":{"name":"House02","path":"sprites/House02/House02.yy",},"order":14,},
     {"id":{"name":"Pavement","path":"sprites/Pavement/Pavement.yy",},"order":2,},
     {"id":{"name":"Ocean_Water_Animated","path":"sprites/Ocean_Water_Animated/Ocean_Water_Animated.yy",},"order":0,},
@@ -43,7 +45,7 @@
     {"id":{"name":"Stall","path":"sprites/Stall/Stall.yy",},"order":19,},
     {"id":{"name":"Grass","path":"sprites/Grass/Grass.yy",},"order":0,},
     {"id":{"name":"Stone_Path","path":"sprites/Stone_Path/Stone_Path.yy",},"order":3,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},"order":0,},
   ],
   "Options": [
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
@@ -58,9 +60,10 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
-    {"name":"Room1","path":"rooms/Room1/Room1.yy",},
+    {"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},
+    {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
+    {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
