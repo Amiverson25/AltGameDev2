@@ -10,6 +10,7 @@
     {"id":{"name":"Ocean_Water03","path":"sprites/Ocean_Water03/Ocean_Water03.yy",},"order":3,},
     {"id":{"name":"objButton","path":"objects/objButton/objButton.yy",},"order":1,},
     {"id":{"name":"Tree01","path":"sprites/Tree01/Tree01.yy",},"order":21,},
+    {"id":{"name":"sprTitle_Screen","path":"sprites/sprTitle_Screen/sprTitle_Screen.yy",},"order":10,},
     {"id":{"name":"objStartGameButton","path":"objects/objStartGameButton/objStartGameButton.yy",},"order":2,},
     {"id":{"name":"House01","path":"sprites/House01/House01.yy",},"order":12,},
     {"id":{"name":"Ocean_Water01","path":"sprites/Ocean_Water01/Ocean_Water01.yy",},"order":1,},
@@ -29,6 +30,7 @@
     {"id":{"name":"objGameManager","path":"objects/objGameManager/objGameManager.yy",},"order":3,},
     {"id":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"order":0,},
     {"id":{"name":"fntDialogBubble","path":"fonts/fntDialogBubble/fntDialogBubble.yy",},"order":0,},
+    {"id":{"name":"Title_Screen","path":"rooms/Title_Screen/Title_Screen.yy",},"order":4,},
     {"id":{"name":"Fountain","path":"sprites/Fountain/Fountain.yy",},"order":8,},
     {"id":{"name":"House","path":"sprites/House/House.yy",},"order":10,},
     {"id":{"name":"Water01","path":"sprites/Water01/Water01.yy",},"order":1,},
@@ -64,6 +66,7 @@
     {"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},
     {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
+    {"name":"Title_Screen","path":"rooms/Title_Screen/Title_Screen.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
