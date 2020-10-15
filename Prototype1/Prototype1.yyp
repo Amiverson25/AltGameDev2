@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"Water02","path":"sprites/Water02/Water02.yy",},"order":2,},
     {"id":{"name":"DrawNineSlice","path":"scripts/DrawNineSlice/DrawNineSlice.yy",},"order":0,},
+    {"id":{"name":"Beach_Umbrella_00","path":"sprites/Beach_Umbrella_00/Beach_Umbrella_00.yy",},"order":26,},
     {"id":{"name":"Post","path":"sprites/Post/Post.yy",},"order":17,},
     {"id":{"name":"Tree","path":"sprites/Tree/Tree.yy",},"order":20,},
     {"id":{"name":"white_Highlight","path":"sprites/white_Highlight/white_Highlight.yy",},"order":22,},
@@ -104,5 +105,3 @@
   "tags": [],
   "resourceType": "GMProject",
 }
-
-
