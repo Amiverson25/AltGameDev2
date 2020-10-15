@@ -10,7 +10,11 @@
     {"id":{"name":"Ocean_Water03","path":"sprites/Ocean_Water03/Ocean_Water03.yy",},"order":3,},
     {"id":{"name":"objButton","path":"objects/objButton/objButton.yy",},"order":1,},
     {"id":{"name":"Tree01","path":"sprites/Tree01/Tree01.yy",},"order":21,},
+<<<<<<< Updated upstream
     {"id":{"name":"sprTitle_Screen","path":"sprites/sprTitle_Screen/sprTitle_Screen.yy",},"order":10,},
+=======
+    {"id":{"name":"Beach_Umbrella_00","path":"sprites/Beach_Umbrella_00/Beach_Umbrella_00.yy",},"order":26,},
+>>>>>>> Stashed changes
     {"id":{"name":"objStartGameButton","path":"objects/objStartGameButton/objStartGameButton.yy",},"order":2,},
     {"id":{"name":"House01","path":"sprites/House01/House01.yy",},"order":12,},
     {"id":{"name":"Ocean_Water01","path":"sprites/Ocean_Water01/Ocean_Water01.yy",},"order":1,},
@@ -38,11 +42,15 @@
     {"id":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"order":0,},
     {"id":{"name":"Pave_Walkway","path":"sprites/Pave_Walkway/Pave_Walkway.yy",},"order":1,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
+    {"id":{"name":"Beach_towel00","path":"sprites/Beach_towel00/Beach_towel00.yy",},"order":25,},
     {"id":{"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},"order":2,},
     {"id":{"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},"order":3,},
     {"id":{"name":"House02","path":"sprites/House02/House02.yy",},"order":14,},
+    {"id":{"name":"Beach_Sand","path":"sprites/Beach_Sand/Beach_Sand.yy",},"order":23,},
     {"id":{"name":"Pavement","path":"sprites/Pavement/Pavement.yy",},"order":2,},
+    {"id":{"name":"Shoreline_Map","path":"rooms/Shoreline_Map/Shoreline_Map.yy",},"order":4,},
     {"id":{"name":"Ocean_Water_Animated","path":"sprites/Ocean_Water_Animated/Ocean_Water_Animated.yy",},"order":0,},
+    {"id":{"name":"Regular_bush","path":"sprites/Regular_bush/Regular_bush.yy",},"order":24,},
     {"id":{"name":"Dirt","path":"sprites/Dirt/Dirt.yy",},"order":4,},
     {"id":{"name":"Stall","path":"sprites/Stall/Stall.yy",},"order":19,},
     {"id":{"name":"Grass","path":"sprites/Grass/Grass.yy",},"order":0,},
@@ -63,6 +71,7 @@
   },
   "RoomOrder": [
     {"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},
+    {"name":"Shoreline_Map","path":"rooms/Shoreline_Map/Shoreline_Map.yy",},
     {"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},
     {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
