@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 63,
-  "bbox_top": 0,
-  "bbox_bottom": 63,
+  "bbox_left": 5,
+  "bbox_right": 51,
+  "bbox_top": 4,
+  "bbox_bottom": 61,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b81b5d36-40b1-40c4-94ad-f7af221c0fa8","path":"sprites/Grass01/Grass01.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b81b5d36-40b1-40c4-94ad-f7af221c0fa8","path":"sprites/Grass01/Grass01.yy",},"LayerId":{"name":"ea6b42fc-e37b-4886-9daf-72732fe6d240","path":"sprites/Grass01/Grass01.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Grass01","path":"sprites/Grass01/Grass01.yy",},"resourceVersion":"1.0","name":"b81b5d36-40b1-40c4-94ad-f7af221c0fa8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"71694368-2478-47db-90f6-3334f3ba5990","path":"sprites/straw/straw.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"71694368-2478-47db-90f6-3334f3ba5990","path":"sprites/straw/straw.yy",},"LayerId":{"name":"6af292aa-153f-4fd2-91c8-b3e2139fb1ac","path":"sprites/straw/straw.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"straw","path":"sprites/straw/straw.yy",},"resourceVersion":"1.0","name":"71694368-2478-47db-90f6-3334f3ba5990","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Grass01","path":"sprites/Grass01/Grass01.yy",},
+    "spriteId": {"name":"straw","path":"sprites/straw/straw.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"0b882ea5-4f64-4d8a-9741-4fc00645af17","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b81b5d36-40b1-40c4-94ad-f7af221c0fa8","path":"sprites/Grass01/Grass01.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5f8c48b3-5526-4804-80d2-538d82ffa651","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"71694368-2478-47db-90f6-3334f3ba5990","path":"sprites/straw/straw.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Grass01","path":"sprites/Grass01/Grass01.yy",},
+    "parent": {"name":"straw","path":"sprites/straw/straw.yy",},
     "resourceVersion": "1.3",
-    "name": "Grass01",
+    "name": "straw",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ea6b42fc-e37b-4886-9daf-72732fe6d240","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6af292aa-153f-4fd2-91c8-b3e2139fb1ac","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Environment Assets",
-    "path": "folders/Sprites/Environment Assets.yy",
+    "name": "ocean_sideview_assets",
+    "path": "folders/Sprites/ocean_sideview_assets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Grass01",
+  "name": "straw",
   "tags": [],
   "resourceType": "GMSprite",
 }
