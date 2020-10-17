@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"player_character","path":"sprites/player_character/player_character.yy",},"order":8,},
+    {"id":{"name":"player_character_Front_Animated","path":"sprites/player_character_Front_Animated/player_character_Front_Animated.yy",},"order":8,},
     {"id":{"name":"Water02","path":"sprites/Water02/Water02.yy",},"order":2,},
     {"id":{"name":"medium_fish","path":"sprites/medium_fish/medium_fish.yy",},"order":9,},
     {"id":{"name":"DrawNineSlice","path":"scripts/DrawNineSlice/DrawNineSlice.yy",},"order":0,},
@@ -88,11 +88,11 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"Shoreline_Map","path":"rooms/Shoreline_Map/Shoreline_Map.yy",},
     {"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},
     {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
-    {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"Side_view_ocean_map","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
   ],
   "Folders": [
