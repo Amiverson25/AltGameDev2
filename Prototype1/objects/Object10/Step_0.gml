@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-y+=1;
-image_speed = 1;
+x=clamp(x, -20, room_width);
+y=clamp(y, 0, room_height);
