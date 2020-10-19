@@ -13,6 +13,9 @@
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
   ],
   "layers": [
+    {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"Object10","path":"objects/Object10/Object10.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":256.0,"resourceVersion":"1.0","name":"inst_DF7302","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":960.0,"resourceVersion":"1.0","name":"graphic_4882C0AD","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":960.0,"resourceVersion":"1.0","name":"graphic_5B4C8ECE","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -431,14 +434,15 @@
         {"spriteId":{"name":"Rock","path":"sprites/Rock/Rock.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":832.0,"resourceVersion":"1.0","name":"graphic_355978C4","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"Rock","path":"sprites/Rock/Rock.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":864.0,"resourceVersion":"1.0","name":"graphic_1057B533","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"Rock","path":"sprites/Rock/Rock.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":2.5,"scaleY":2.5,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":832.0,"resourceVersion":"1.0","name":"graphic_59DF60FE","tags":[],"resourceType":"GMRSpriteGraphic",},
-      ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Pier_Map_Assets","tags":[],"resourceType":"GMRAssetLayer",},
-    {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
+      ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Pier_Map_Assets","tags":[],"resourceType":"GMRAssetLayer",},
     {"spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
   "inheritLayers": false,
   "creationCodeFile": "",
   "inheritCode": false,
-  "instanceCreationOrder": [],
+  "instanceCreationOrder": [
+    {"name":"inst_DF7302","path":"rooms/Pier_Map/Pier_Map.yy",},
+  ],
   "inheritCreationOrder": false,
   "sequenceId": null,
   "roomSettings": {

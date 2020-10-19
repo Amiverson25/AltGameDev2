@@ -8,6 +8,7 @@
     {"id":{"name":"Post","path":"sprites/Post/Post.yy",},"order":17,},
     {"id":{"name":"Side_view_ocean_map","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},"order":5,},
     {"id":{"name":"Tree","path":"sprites/Tree/Tree.yy",},"order":20,},
+    {"id":{"name":"Object10","path":"objects/Object10/Object10.yy",},"order":10,},
     {"id":{"name":"white_Highlight","path":"sprites/white_Highlight/white_Highlight.yy",},"order":22,},
     {"id":{"name":"sprButton","path":"sprites/sprButton/sprButton.yy",},"order":1,},
     {"id":{"name":"House03","path":"sprites/House03/House03.yy",},"order":15,},
