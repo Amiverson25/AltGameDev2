@@ -50,6 +50,7 @@
     {"id":{"name":"cup","path":"sprites/cup/cup.yy",},"order":6,},
     {"id":{"name":"objPierBoat","path":"objects/objPierBoat/objPierBoat.yy",},"order":2,},
     {"id":{"name":"NoButton","path":"objects/NoButton/NoButton.yy",},"order":0,},
+    {"id":{"name":"Tuto_01","path":"sprites/Tuto_01/Tuto_01.yy",},"order":9,},
     {"id":{"name":"cup_OBJ","path":"objects/cup_OBJ/cup_OBJ.yy",},"order":1,},
     {"id":{"name":"House","path":"sprites/House/House.yy",},"order":10,},
     {"id":{"name":"tutotheseal","path":"objects/tutotheseal/tutotheseal.yy",},"order":5,},
@@ -94,11 +95,11 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"Shoreline_Map","path":"rooms/Shoreline_Map/Shoreline_Map.yy",},
     {"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},
-    {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"Side_view_ocean_map","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
   ],
   "Folders": [
