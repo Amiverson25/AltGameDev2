@@ -95,8 +95,8 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
+    {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"Shoreline_Map","path":"rooms/Shoreline_Map/Shoreline_Map.yy",},
     {"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},
