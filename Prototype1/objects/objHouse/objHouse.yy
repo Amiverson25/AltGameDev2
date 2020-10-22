@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "boat",
-    "path": "sprites/boat/boat.yy",
+    "name": "House0001",
+    "path": "sprites/House0001/House0001.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "ObjectsforPierMap",
+    "path": "folders/Objects/ObjectsforPierMap.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object12",
+  "name": "objHouse",
   "tags": [],
   "resourceType": "GMObject",
 }
