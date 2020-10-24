@@ -82,6 +82,7 @@
     {"id":{"name":"Grass","path":"sprites/Grass/Grass.yy",},"order":0,},
     {"id":{"name":"Plastic_bag_OBJ","path":"objects/Plastic_bag_OBJ/Plastic_bag_OBJ.yy",},"order":2,},
     {"id":{"name":"Title_Screen","path":"rooms/Title_Screen/Title_Screen.yy",},"order":6,},
+    {"id":{"name":"Factory","path":"sprites/Factory/Factory.yy",},"order":27,},
     {"id":{"name":"Stone_Path","path":"sprites/Stone_Path/Stone_Path.yy",},"order":3,},
     {"id":{"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},"order":0,},
   ],
