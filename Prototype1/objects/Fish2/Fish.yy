@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "straw",
-    "path": "sprites/straw/straw.yy",
+    "name": "large_fish",
+    "path": "sprites/large_fish/large_fish.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,16 +21,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Net","path":"objects/Net/Net.yy",},"parent":{"name":"Straw_OBJ","path":"objects/Straw_OBJ/Straw_OBJ.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Fish","path":"objects/Fish/Fish.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"Fish","path":"objects/Fish/Fish.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "trash objects for minigames",
-    "path": "folders/Objects/trash objects for minigames.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Straw_OBJ",
+  "name": "Fish",
   "tags": [],
   "resourceType": "GMObject",
 }
