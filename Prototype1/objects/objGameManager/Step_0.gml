@@ -12,6 +12,6 @@ if(Net.scoreGarbage == 15){
 	instance_destroy(Fish);
 }
 if(Net.scoreGarbage == 20){
-	objOceanMan.counterTimer++;
+	global.fishyy = 1;
 	room = Ocean_Map;
 }
