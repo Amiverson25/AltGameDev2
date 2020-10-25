@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "ObjectsForMiniGame",
+    "path": "folders/Objects/ObjectsForMiniGame.yy",
   },
   "resourceVersion": "1.0",
   "name": "Fish2",

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "text_box_dialog",
-    "path": "sprites/text_box_dialog/text_box_dialog.yy",
+    "name": "sprDialogBubble",
+    "path": "sprites/sprDialogBubble/sprDialogBubble.yy",
   },
   "solid": false,
   "visible": true,

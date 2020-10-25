@@ -7,8 +7,8 @@
 objDialogBubble.visible = true;/*
 objDialogBubble.x = 100;
 objDialogBubble.y = room_height - 200;*/
-tutotheseal.x = objDialogBubble.x-50;
-tutotheseal.y = objDialogBubble.y-20;
+//tutotheseal.x = objDialogBubble.x-50;
+//tutotheseal.y = objDialogBubble.y-20;
 YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
 YesButton.y = objDialogBubble.y+ objDialogBubble.height;
 

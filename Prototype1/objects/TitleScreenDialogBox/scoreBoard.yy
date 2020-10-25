@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "text_box_dialog",
-    "path": "sprites/text_box_dialog/text_box_dialog.yy",
+    "name": "sprDialogBubble",
+    "path": "sprites/sprDialogBubble/sprDialogBubble.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"scoreBoard","path":"objects/scoreBoard/scoreBoard.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":2,"value":"Default Dialog Text","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"text","tags":[],"resourceType":"GMObjectProperty",},
@@ -35,7 +35,7 @@
     "path": "folders/Objects/ObjectsforPierMap.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objDialogBubble",
+  "name": "scoreBoard",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -29,7 +29,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "trash objects for minigames",
-    "path": "folders/Objects/trash objects for minigames.yy",
+    "path": "folders/Objects/ObjectsForMiniGame/trash objects for minigames.yy",
   },
   "resourceVersion": "1.0",
   "name": "cup_OBJ",
