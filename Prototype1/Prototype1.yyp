@@ -57,6 +57,7 @@
     {"id":{"name":"objGameManager","path":"objects/objGameManager/objGameManager.yy",},"order":0,},
     {"id":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"order":0,},
     {"id":{"name":"fntDialogBubble","path":"fonts/fntDialogBubble/fntDialogBubble.yy",},"order":0,},
+    {"id":{"name":"tutorialforocean","path":"objects/tutorialforocean/tutorialforocean.yy",},"order":2,},
     {"id":{"name":"Fountain","path":"sprites/Fountain/Fountain.yy",},"order":8,},
     {"id":{"name":"plastic_bag","path":"sprites/plastic_bag/plastic_bag.yy",},"order":12,},
     {"id":{"name":"water_main","path":"sprites/water_main/water_main.yy",},"order":2,},
@@ -112,8 +113,8 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"Title_Screen","path":"rooms/Title_Screen/Title_Screen.yy",},
     {"name":"Side_view_ocean_map","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
+    {"name":"Title_Screen","path":"rooms/Title_Screen/Title_Screen.yy",},
     {"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
