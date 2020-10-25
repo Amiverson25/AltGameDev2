@@ -14,11 +14,11 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"objPierMan","path":"objects/objPierMan/objPierMan.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":288.0,"resourceVersion":"1.0","name":"inst_1C412D9A","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"objPierBoat","path":"objects/objPierBoat/objPierBoat.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":256.0,"resourceVersion":"1.0","name":"inst_33E61B66","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-224.0,"y":352.0,"resourceVersion":"1.0","name":"inst_768DFECB","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"NoButton","path":"objects/NoButton/NoButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-224.0,"y":416.0,"resourceVersion":"1.0","name":"inst_3167306C","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"YesButton","path":"objects/YesButton/YesButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-288.0,"y":416.0,"resourceVersion":"1.0","name":"inst_6070161","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objOceanMan","path":"objects/objOceanMan/objOceanMan.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":448.0,"resourceVersion":"1.0","name":"inst_286EC735","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objOceanBoat","path":"objects/objOceanBoat/objOceanBoat.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.5,"scaleY":2.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":416.0,"resourceVersion":"1.0","name":"inst_341F3DC0","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Ocean_Water_Animated","path":"sprites/Ocean_Water_Animated/Ocean_Water_Animated.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":704.0,"resourceVersion":"1.0","name":"graphic_12FADDB1","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -192,11 +192,11 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_1C412D9A","path":"rooms/Ocean_Map/Ocean_Map.yy",},
-    {"name":"inst_33E61B66","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"inst_768DFECB","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"inst_3167306C","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"inst_6070161","path":"rooms/Ocean_Map/Ocean_Map.yy",},
+    {"name":"inst_286EC735","path":"rooms/Ocean_Map/Ocean_Map.yy",},
+    {"name":"inst_341F3DC0","path":"rooms/Ocean_Map/Ocean_Map.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

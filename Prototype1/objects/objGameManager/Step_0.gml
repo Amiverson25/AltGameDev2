@@ -8,5 +8,6 @@ if((keyboard_check_pressed( ord("W")) || keyboard_check_pressed( ord("S"))) && N
 	
 }
 if(Net.scoreGarbage == 15){
-	objDialogBubble.text = "Uh oh it looks like you caught 20 garbage!"
+	objDialogBubble.text = "Uh oh it looks like you caught 15 garbage!";
+	instance_destroy(Fish);
 }
