@@ -113,8 +113,8 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"Side_view_ocean_map","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
     {"name":"Title_Screen","path":"rooms/Title_Screen/Title_Screen.yy",},
+    {"name":"Side_view_ocean_map","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
     {"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
