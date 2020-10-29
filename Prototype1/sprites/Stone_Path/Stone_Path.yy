@@ -14,19 +14,19 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 66,
+  "height": 66,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
   },
   "swatchColours": null,
-  "gridX": 0,
-  "gridY": 0,
+  "gridX": 22,
+  "gridY": 22,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f5b8bcac-4708-4f24-91f7-6ac8d746f239","path":"sprites/Stone_Path/Stone_Path.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f5b8bcac-4708-4f24-91f7-6ac8d746f239","path":"sprites/Stone_Path/Stone_Path.yy",},"LayerId":{"name":"2231bffa-f31e-4542-a632-e3d59306312a","path":"sprites/Stone_Path/Stone_Path.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Stone_Path","path":"sprites/Stone_Path/Stone_Path.yy",},"resourceVersion":"1.0","name":"f5b8bcac-4708-4f24-91f7-6ac8d746f239","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5410b3f3-1d56-4a0b-80e0-1f2727d22fd6","path":"sprites/Stone_Path/Stone_Path.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5410b3f3-1d56-4a0b-80e0-1f2727d22fd6","path":"sprites/Stone_Path/Stone_Path.yy",},"LayerId":{"name":"2231bffa-f31e-4542-a632-e3d59306312a","path":"sprites/Stone_Path/Stone_Path.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Stone_Path","path":"sprites/Stone_Path/Stone_Path.yy",},"resourceVersion":"1.0","name":"5410b3f3-1d56-4a0b-80e0-1f2727d22fd6","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Stone_Path","path":"sprites/Stone_Path/Stone_Path.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"1b907280-92b1-4175-bae6-b93621704184","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f5b8bcac-4708-4f24-91f7-6ac8d746f239","path":"sprites/Stone_Path/Stone_Path.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9e9d1870-ee41-4d2c-83a4-2ebd223e81ec","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5410b3f3-1d56-4a0b-80e0-1f2727d22fd6","path":"sprites/Stone_Path/Stone_Path.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
