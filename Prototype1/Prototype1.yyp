@@ -4,6 +4,7 @@
     {"id":{"name":"Water02","path":"sprites/Water02/Water02.yy",},"order":2,},
     {"id":{"name":"medium_fish","path":"sprites/medium_fish/medium_fish.yy",},"order":9,},
     {"id":{"name":"sprTitleBG","path":"sprites/sprTitleBG/sprTitleBG.yy",},"order":9,},
+    {"id":{"name":"Shark","path":"sprites/Shark/Shark.yy",},"order":19,},
     {"id":{"name":"DrawNineSlice","path":"scripts/DrawNineSlice/DrawNineSlice.yy",},"order":0,},
     {"id":{"name":"Beach_Umbrella_00","path":"sprites/Beach_Umbrella_00/Beach_Umbrella_00.yy",},"order":26,},
     {"id":{"name":"Post","path":"sprites/Post/Post.yy",},"order":17,},
