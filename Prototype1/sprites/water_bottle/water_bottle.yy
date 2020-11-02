@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 12,
-  "bbox_right": 45,
-  "bbox_top": 19,
-  "bbox_bottom": 52,
+  "bbox_left": 4,
+  "bbox_right": 48,
+  "bbox_top": 17,
+  "bbox_bottom": 53,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -27,15 +27,21 @@
     {"compositeImage":{"FrameId":{"name":"069b6538-febc-4417-bb13-84ac1d74af91","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"069b6538-febc-4417-bb13-84ac1d74af91","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":{"name":"182940fa-a942-4070-a2ef-c4d950a27d5a","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"water_bottle","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"069b6538-febc-4417-bb13-84ac1d74af91","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fd0a326e-fd0b-44d2-bde4-b257821f996a","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fd0a326e-fd0b-44d2-bde4-b257821f996a","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":{"name":"182940fa-a942-4070-a2ef-c4d950a27d5a","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"water_bottle","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"fd0a326e-fd0b-44d2-bde4-b257821f996a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e2ca756c-4c25-4712-a2e7-0ac430df8d79","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e2ca756c-4c25-4712-a2e7-0ac430df8d79","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":{"name":"182940fa-a942-4070-a2ef-c4d950a27d5a","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"water_bottle","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"e2ca756c-4c25-4712-a2e7-0ac430df8d79","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b66de964-e287-42de-a300-83faf99fa9a2","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b66de964-e287-42de-a300-83faf99fa9a2","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":{"name":"182940fa-a942-4070-a2ef-c4d950a27d5a","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"water_bottle","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"b66de964-e287-42de-a300-83faf99fa9a2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a54c926a-5362-4212-aa21-e873acb77608","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a54c926a-5362-4212-aa21-e873acb77608","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":{"name":"182940fa-a942-4070-a2ef-c4d950a27d5a","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"water_bottle","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"a54c926a-5362-4212-aa21-e873acb77608","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9a5cdb32-6891-489a-9764-67bceda7b847","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9a5cdb32-6891-489a-9764-67bceda7b847","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":{"name":"182940fa-a942-4070-a2ef-c4d950a27d5a","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"water_bottle","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"9a5cdb32-6891-489a-9764-67bceda7b847","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6ae9b768-8b8d-4b9c-8b9d-616bc609b066","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6ae9b768-8b8d-4b9c-8b9d-616bc609b066","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":{"name":"182940fa-a942-4070-a2ef-c4d950a27d5a","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"water_bottle","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"6ae9b768-8b8d-4b9c-8b9d-616bc609b066","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0d0cb1dc-9809-4e71-ae35-0a6a16ce67bb","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0d0cb1dc-9809-4e71-ae35-0a6a16ce67bb","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":{"name":"182940fa-a942-4070-a2ef-c4d950a27d5a","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"water_bottle","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"0d0cb1dc-9809-4e71-ae35-0a6a16ce67bb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"34f06c4b-d2bf-4125-8d4d-ed98c6842d2c","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"34f06c4b-d2bf-4125-8d4d-ed98c6842d2c","path":"sprites/water_bottle/water_bottle.yy",},"LayerId":{"name":"182940fa-a942-4070-a2ef-c4d950a27d5a","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"water_bottle","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","name":"34f06c4b-d2bf-4125-8d4d-ed98c6842d2c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"water_bottle","path":"sprites/water_bottle/water_bottle.yy",},
@@ -45,15 +51,17 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 4.0,
+    "length": 6.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"b9e9f58e-5d41-4917-aecb-d3bfd627f26d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"069b6538-febc-4417-bb13-84ac1d74af91","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"fa92eb70-d6b5-4e08-918f-8ecafc4e6201","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fd0a326e-fd0b-44d2-bde4-b257821f996a","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"5aa4d04b-62e5-4901-8e99-3ec0cdb21035","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e2ca756c-4c25-4712-a2e7-0ac430df8d79","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"3fc1bc3c-f457-4570-b9c2-2fdaf0b32415","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b66de964-e287-42de-a300-83faf99fa9a2","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f2e06ed3-1e05-46e3-a2b8-b34e347f45ee","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a54c926a-5362-4212-aa21-e873acb77608","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c0373fd6-3730-46cd-a8fb-2726cf32a0ff","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9a5cdb32-6891-489a-9764-67bceda7b847","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c4b30284-5482-4f65-8f50-85957160d8d1","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6ae9b768-8b8d-4b9c-8b9d-616bc609b066","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"108baf01-66d4-447e-a05e-bbe1431d0082","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0d0cb1dc-9809-4e71-ae35-0a6a16ce67bb","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"990f544f-987a-415e-806d-658095c3aa36","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"34f06c4b-d2bf-4125-8d4d-ed98c6842d2c","path":"sprites/water_bottle/water_bottle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
