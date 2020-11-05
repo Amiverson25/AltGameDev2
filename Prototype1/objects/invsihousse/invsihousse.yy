@@ -28,7 +28,7 @@
     "path": "folders/Objects/ObjectsforPierMap.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objHouse",
+  "name": "invsihousse",
   "tags": [],
   "resourceType": "GMObject",
 }

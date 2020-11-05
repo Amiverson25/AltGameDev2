@@ -2,7 +2,7 @@
   "bboxMode": 1,
   "collisionKind": 1,
   "type": 0,
-  "origin": 9,
+  "origin": 0,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"961505b4-43e8-4a5a-8510-ddb15c3c7b05","path":"sprites/House0001/House0001.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"961505b4-43e8-4a5a-8510-ddb15c3c7b05","path":"sprites/House0001/House0001.yy",},"LayerId":{"name":"bce33d23-565c-488e-8135-8702b3ee075d","path":"sprites/House0001/House0001.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"House0001","path":"sprites/House0001/House0001.yy",},"resourceVersion":"1.0","name":"961505b4-43e8-4a5a-8510-ddb15c3c7b05","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"81cee97f-30d3-4041-9cea-bd5e086255d6","path":"sprites/Sprite78/Sprite78.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"81cee97f-30d3-4041-9cea-bd5e086255d6","path":"sprites/Sprite78/Sprite78.yy",},"LayerId":{"name":"ff746a96-e711-4f70-a59c-7f510c6228e9","path":"sprites/Sprite78/Sprite78.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Sprite78","path":"sprites/Sprite78/Sprite78.yy",},"resourceVersion":"1.0","name":"81cee97f-30d3-4041-9cea-bd5e086255d6","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"House0001","path":"sprites/House0001/House0001.yy",},
+    "spriteId": {"name":"Sprite78","path":"sprites/Sprite78/Sprite78.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"6c8f8f33-6f89-481c-bf0f-9dfec02aadab","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"961505b4-43e8-4a5a-8510-ddb15c3c7b05","path":"sprites/House0001/House0001.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"03b8c527-1992-41e7-845f-87be0cd8e69b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"81cee97f-30d3-4041-9cea-bd5e086255d6","path":"sprites/Sprite78/Sprite78.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,25 +54,25 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 34,
-    "yorigin": 35,
+    "xorigin": 0,
+    "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"House0001","path":"sprites/House0001/House0001.yy",},
+    "parent": {"name":"Sprite78","path":"sprites/Sprite78/Sprite78.yy",},
     "resourceVersion": "1.3",
-    "name": "House0001",
+    "name": "Sprite78",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bce33d23-565c-488e-8135-8702b3ee075d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ff746a96-e711-4f70-a59c-7f510c6228e9","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Environment Assets",
-    "path": "folders/Sprites/Environment Assets.yy",
+    "name": "Prototype1",
+    "path": "Prototype1.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "House0001",
+  "name": "Sprite78",
   "tags": [],
   "resourceType": "GMSprite",
 }

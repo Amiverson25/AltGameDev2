@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "House0001",
-    "path": "sprites/House0001/House0001.yy",
+    "name": "Sprite78",
+    "path": "sprites/Sprite78/Sprite78.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ObjectsforPierMap",
-    "path": "folders/Objects/ObjectsforPierMap.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objHouse",
+  "name": "WaterBarrier",
   "tags": [],
   "resourceType": "GMObject",
 }

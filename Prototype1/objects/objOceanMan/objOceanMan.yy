@@ -28,6 +28,9 @@
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objOceanMan","path":"objects/objOceanMan/objOceanMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":1,"eventType":3,"collisionObjectId":null,"parent":{"name":"objOceanMan","path":"objects/objOceanMan/objOceanMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objPierBoat","path":"objects/objPierBoat/objPierBoat.yy",},"parent":{"name":"objOceanMan","path":"objects/objOceanMan/objOceanMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"WaterBarrier","path":"objects/WaterBarrier/WaterBarrier.yy",},"parent":{"name":"objOceanMan","path":"objects/objOceanMan/objOceanMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":52,"eventType":5,"collisionObjectId":null,"parent":{"name":"objOceanMan","path":"objects/objOceanMan/objOceanMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":32,"eventType":9,"collisionObjectId":null,"parent":{"name":"objOceanMan","path":"objects/objOceanMan/objOceanMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"counterTimer","tags":[],"resourceType":"GMObjectProperty",},
