@@ -20,12 +20,14 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Net","path":"objects/Net/Net.yy",},"parent":{"name":"Straw_OBJ","path":"objects/Straw_OBJ/Straw_OBJ.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
     "name": "trash objects for minigames",
-    "path": "folders/Objects/trash objects for minigames.yy",
+    "path": "folders/Objects/ObjectsForMiniGame/trash objects for minigames.yy",
   },
   "resourceVersion": "1.0",
   "name": "Straw_OBJ",
