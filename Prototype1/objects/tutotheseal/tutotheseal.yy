@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite4",
-    "path": "sprites/Sprite4/Sprite4.yy",
+    "name": "Tuto_01",
+    "path": "sprites/Tuto_01/Tuto_01.yy",
   },
   "solid": false,
   "visible": true,
