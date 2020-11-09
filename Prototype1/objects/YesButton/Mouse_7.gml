@@ -16,6 +16,6 @@ switch(action) {
 		break;
 	case 3:
 		//var button = instance_find(objButton, button_index);
-		button.disabled = !button.disabled;
+		//button.disabled = !button.disabled;
 		break;
 }

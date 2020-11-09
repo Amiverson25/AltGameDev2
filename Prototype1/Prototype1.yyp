@@ -92,7 +92,6 @@
     {"id":{"name":"tutotheseal","path":"objects/tutotheseal/tutotheseal.yy",},"order":5,},
     {"id":{"name":"soda_rings","path":"sprites/soda_rings/soda_rings.yy",},"order":14,},
     {"id":{"name":"Water01","path":"sprites/Water01/Water01.yy",},"order":1,},
-    {"id":{"name":"Grass01","path":"sprites/Grass01/Grass01.yy",},"order":9,},
     {"id":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"order":3,},
     {"id":{"name":"Pave_Walkway","path":"sprites/Pave_Walkway/Pave_Walkway.yy",},"order":1,},
     {"id":{"name":"coral1","path":"sprites/coral1/coral1.yy",},"order":5,},
