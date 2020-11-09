@@ -12,10 +12,10 @@ switch(action) {
 		room_goto(rmGame);
 		break;
 	case 2:
-		room_goto(Room1);
+		//room_goto(Room1);
 		break;
 	case 3:
-		var button = instance_find(objButton, button_index);
-		button.disabled = !button.disabled;
+		//var button = instance_find(objButton, button_index);
+		//button.disabled = !button.disabled;
 		break;
 }
