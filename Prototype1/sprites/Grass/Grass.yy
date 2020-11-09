@@ -27,18 +27,6 @@
     {"compositeImage":{"FrameId":{"name":"b787ca8f-3d4d-4e0d-8915-acd6230f00aa","path":"sprites/Grass/Grass.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"b787ca8f-3d4d-4e0d-8915-acd6230f00aa","path":"sprites/Grass/Grass.yy",},"LayerId":{"name":"e67d850b-cd8a-496e-92fa-38865d711ed4","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Grass","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","name":"b787ca8f-3d4d-4e0d-8915-acd6230f00aa","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3e3df075-5091-46e1-83a0-0f9cb9a788f9","path":"sprites/Grass/Grass.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3e3df075-5091-46e1-83a0-0f9cb9a788f9","path":"sprites/Grass/Grass.yy",},"LayerId":{"name":"e67d850b-cd8a-496e-92fa-38865d711ed4","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Grass","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","name":"3e3df075-5091-46e1-83a0-0f9cb9a788f9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"110919b0-9322-40ae-a836-2e770c6d8957","path":"sprites/Grass/Grass.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"110919b0-9322-40ae-a836-2e770c6d8957","path":"sprites/Grass/Grass.yy",},"LayerId":{"name":"e67d850b-cd8a-496e-92fa-38865d711ed4","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Grass","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","name":"110919b0-9322-40ae-a836-2e770c6d8957","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"033a048e-5039-4811-bbad-74597b4e3f45","path":"sprites/Grass/Grass.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"033a048e-5039-4811-bbad-74597b4e3f45","path":"sprites/Grass/Grass.yy",},"LayerId":{"name":"e67d850b-cd8a-496e-92fa-38865d711ed4","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Grass","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","name":"033a048e-5039-4811-bbad-74597b4e3f45","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"05d3c60f-5183-4937-bc6a-9a5521a1c217","path":"sprites/Grass/Grass.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"05d3c60f-5183-4937-bc6a-9a5521a1c217","path":"sprites/Grass/Grass.yy",},"LayerId":{"name":"e67d850b-cd8a-496e-92fa-38865d711ed4","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Grass","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","name":"05d3c60f-5183-4937-bc6a-9a5521a1c217","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Grass","path":"sprites/Grass/Grass.yy",},
@@ -48,16 +36,12 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 5.0,
+    "length": 1.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"15702437-df6a-4778-b09f-cc8967d69a5a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b787ca8f-3d4d-4e0d-8915-acd6230f00aa","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"11f8fbd3-dcf5-4e2b-922e-40eecf7d0f9d","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3e3df075-5091-46e1-83a0-0f9cb9a788f9","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"c552bb24-4aea-4669-b602-57fa57ff1b1e","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"110919b0-9322-40ae-a836-2e770c6d8957","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"fc60d066-a308-41ac-8298-0308c03677e6","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"033a048e-5039-4811-bbad-74597b4e3f45","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"fb0039e9-1a4a-4ed0-b427-831ee574dfa2","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"05d3c60f-5183-4937-bc6a-9a5521a1c217","path":"sprites/Grass/Grass.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
