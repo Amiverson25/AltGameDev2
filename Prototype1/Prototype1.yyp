@@ -101,6 +101,7 @@
     {"id":{"name":"kelp_mid_section","path":"sprites/kelp_mid_section/kelp_mid_section.yy",},"order":10,},
     {"id":{"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},"order":2,},
     {"id":{"name":"sand_main","path":"sprites/sand_main/sand_main.yy",},"order":1,},
+    {"id":{"name":"scoreObject","path":"objects/scoreObject/scoreObject.yy",},"order":7,},
     {"id":{"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},"order":3,},
     {"id":{"name":"House02","path":"sprites/House02/House02.yy",},"order":14,},
     {"id":{"name":"sprtYesButt","path":"sprites/sprtYesButt/sprtYesButt.yy",},"order":9,},
