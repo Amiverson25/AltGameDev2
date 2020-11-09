@@ -3,8 +3,8 @@
 
 
 objDialogBubble.visible = true;
-objDialogBubble.x = 100;
-objDialogBubble.y = 100;
+//objDialogBubble.x = 100;
+//objDialogBubble.y = 100;
 YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
 YesButton.y = objDialogBubble.y+ objDialogBubble.height;
 switch (counterTimer){
@@ -15,5 +15,10 @@ switch (counterTimer){
 		break;
 	case 4:
 		room = Ocean_Map;
+	default:	
+		objDialogBubble.text = "Looks like you need to start the tutorial still, go to the house to start it!";
+		YesButton.visible = false;
+		break;
+	
 		
 }
