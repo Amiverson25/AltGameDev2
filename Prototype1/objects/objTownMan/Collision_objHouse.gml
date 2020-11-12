@@ -2,14 +2,6 @@
 // You can write your code in this editor
 /// @description Insert description here
 // You can write your code in this editor
-/// @description Insert description here
-// You can write your code in this editor
-
-/// @description Insert description here
-// You can write your code in this editor
-
-//room = Town_Map;
-
 
 
 objDialogBubble.visible = true;/*
@@ -19,7 +11,6 @@ objDialogBubble.y = room_height - 200;*/
 //tutotheseal.y = objDialogBubble.y-20;
 YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
 YesButton.y = objDialogBubble.y+ objDialogBubble.height;
-YesButton.visible = false;
 
 //NoButton.x = objDialogBubble.x+objDialogBubble.width/2;
 //NoButton.y = objDialogBubble.y+ objDialogBubble.height;
@@ -27,13 +18,11 @@ switch(counterTimer){
 	case 1:
 		objDialogBubble.text = "Are you ready for a tutorial?";
 		YesButton.text = "Yup!"
-		YesButton.visible = true;
 		//NoButton.text = "Sure!"
 		break;
 	case 2:
 		objDialogBubble.text = "Well, first of all you discovered the basic WASD controls";
 		YesButton.text = "It was easy!";
-		YesButton.visible = true;
 		//NoButton.text = "It was easy!"
 		break;
 	case 3:

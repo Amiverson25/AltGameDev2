@@ -14,23 +14,10 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[
-            {"propertyId":{"name":"text","path":"objects/objDialogBubble/objDialogBubble.yy",},"objectId":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"value":"Hey class! This is a dialog bubble demo!","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-            {"propertyId":{"name":"fontColor","path":"objects/objDialogBubble/objDialogBubble.yy",},"objectId":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"value":"$FFFF00FF","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-          ],"isDnd":false,"objectId":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":26.3333321,"scaleY":15.6666679,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-800.0,"y":640.0,"resourceVersion":"1.0","name":"inst_5ADEF578","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[
-            {"propertyId":{"name":"text","path":"objects/YesButton/YesButton.yy",},"objectId":{"name":"YesButton","path":"objects/YesButton/YesButton.yy",},"value":"Toggle Button","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-            {"propertyId":{"name":"action","path":"objects/YesButton/YesButton.yy",},"objectId":{"name":"YesButton","path":"objects/YesButton/YesButton.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-            {"propertyId":{"name":"button_index","path":"objects/YesButton/YesButton.yy",},"objectId":{"name":"YesButton","path":"objects/YesButton/YesButton.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-          ],"isDnd":false,"objectId":{"name":"YesButton","path":"objects/YesButton/YesButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":10.333333,"scaleY":2.33333325,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-800.0,"y":416.0,"resourceVersion":"1.0","name":"inst_34B67996","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[
-            {"propertyId":{"name":"text","path":"objects/YesButton/YesButton.yy",},"objectId":{"name":"YesButton","path":"objects/YesButton/YesButton.yy",},"value":"Start Game","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-            {"propertyId":{"name":"action","path":"objects/YesButton/YesButton.yy",},"objectId":{"name":"YesButton","path":"objects/YesButton/YesButton.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-            {"propertyId":{"name":"disabled","path":"objects/YesButton/YesButton.yy",},"objectId":{"name":"YesButton","path":"objects/YesButton/YesButton.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-          ],"isDnd":false,"objectId":{"name":"YesButton","path":"objects/YesButton/YesButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":9.0,"scaleY":3.66666675,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-672.0,"y":160.0,"resourceVersion":"1.0","name":"inst_7F35DDE7","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"objGameManager","path":"objects/objGameManager/objGameManager.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":32.0,"resourceVersion":"1.0","name":"inst_400BACAC","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Net","path":"objects/Net/Net.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-256.0,"y":800.0,"resourceVersion":"1.0","name":"inst_43078C8D","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"objGameManager","path":"objects/objGameManager/objGameManager.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-128.0,"y":672.0,"resourceVersion":"1.0","name":"inst_6A18312D","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"townMapManager","path":"objects/townMapManager/townMapManager.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-320.0,"y":736.0,"resourceVersion":"1.0","name":"inst_B867FD9","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":907.0,"resourceVersion":"1.0","name":"inst_662071E2","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"WaterBarrier","path":"objects/WaterBarrier/WaterBarrier.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":484.0,"y":976.0,"resourceVersion":"1.0","name":"inst_1B63BFF4","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Ocean_Water_Animated","path":"sprites/Ocean_Water_Animated/Ocean_Water_Animated.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":160.0,"resourceVersion":"1.0","name":"graphic_461C3E0B","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -613,11 +600,9 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_43078C8D","path":"rooms/Town_Map/Town_Map.yy",},
-    {"name":"inst_5ADEF578","path":"rooms/Town_Map/Town_Map.yy",},
-    {"name":"inst_34B67996","path":"rooms/Town_Map/Town_Map.yy",},
-    {"name":"inst_7F35DDE7","path":"rooms/Town_Map/Town_Map.yy",},
-    {"name":"inst_400BACAC","path":"rooms/Town_Map/Town_Map.yy",},
-    {"name":"inst_6A18312D","path":"rooms/Town_Map/Town_Map.yy",},
+    {"name":"inst_B867FD9","path":"rooms/Town_Map/Town_Map.yy",},
+    {"name":"inst_662071E2","path":"rooms/Town_Map/Town_Map.yy",},
+    {"name":"inst_1B63BFF4","path":"rooms/Town_Map/Town_Map.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
