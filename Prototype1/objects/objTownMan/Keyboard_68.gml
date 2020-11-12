@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-x+=1;
-//image_speed = 1;
+x+=3;
+image_speed = 1;
 
 //if collide with the 
 //water and the main house

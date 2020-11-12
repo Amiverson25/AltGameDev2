@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "sprButton",
-    "path": "sprites/sprButton/sprButton.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "YesButton",
-    "path": "objects/YesButton/YesButton.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -24,16 +18,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"objStartGameButton","path":"objects/objStartGameButton/objStartGameButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"townMapManager","path":"objects/townMapManager/townMapManager.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "MiscObjects",
-    "path": "folders/Objects/MiscObjects.yy",
+    "name": "TownMapObjects",
+    "path": "folders/Objects/TownMapObjects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objStartGameButton",
+  "name": "townMapManager",
   "tags": [],
   "resourceType": "GMObject",
 }
