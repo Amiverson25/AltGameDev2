@@ -435,7 +435,7 @@
     {"name":"inst_36BD1D7C","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"inst_625B53AB","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"inst_5F60CF90","path":"rooms/Pier_Map/Pier_Map.yy",},
-    {"name":"inst_C360A9D","path":"rooms/Pier_Map/Pier_Map.yy",},
+    {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"inst_2BD8967","path":"rooms/Pier_Map/Pier_Map.yy",},
   ],
   "inheritCreationOrder": false,
