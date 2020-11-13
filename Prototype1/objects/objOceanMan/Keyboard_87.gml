@@ -8,4 +8,4 @@
 //first get it to go up
 //vspeed-=0.1;
 y-=1;
-image_speed = 1;
+//image_speed = 1;

@@ -39,6 +39,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"CrushedCan","path":"objects/CrushedCan/CrushedCan.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":-15.6817322,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1952.0,"y":384.0,"resourceVersion":"1.0","name":"inst_56128DC3","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"CrushedCan","path":"objects/CrushedCan/CrushedCan.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1952.0,"y":288.0,"resourceVersion":"1.0","name":"inst_7719ABE5","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Clock","path":"objects/obj_Clock/obj_Clock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.5,"scaleY":3.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_6ED64AC2","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"scoreObject","path":"objects/scoreObject/scoreObject.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1376.0,"y":96.0,"resourceVersion":"1.0","name":"inst_57DEECD8","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"water_main","path":"sprites/water_main/water_main.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":416.0,"resourceVersion":"1.0","name":"graphic_7B7D1986","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -372,6 +373,7 @@
     {"name":"inst_33F43FF5","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
     {"name":"inst_56128DC3","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
     {"name":"inst_7719ABE5","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
+    {"name":"inst_57DEECD8","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
     {"name":"inst_6ED64AC2","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
   ],
   "inheritCreationOrder": false,

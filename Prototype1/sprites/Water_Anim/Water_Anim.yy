@@ -27,15 +27,18 @@
     {"compositeImage":{"FrameId":{"name":"75ff60d2-df25-4647-83f4-a373a72cf8f1","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"75ff60d2-df25-4647-83f4-a373a72cf8f1","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":{"name":"15991626-fcdd-4fb7-a701-ce6c25b48261","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"75ff60d2-df25-4647-83f4-a373a72cf8f1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"512e08e2-3c0e-4bf9-af5c-59f8d7b41f47","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"512e08e2-3c0e-4bf9-af5c-59f8d7b41f47","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":{"name":"15991626-fcdd-4fb7-a701-ce6c25b48261","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"512e08e2-3c0e-4bf9-af5c-59f8d7b41f47","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ccbf2b24-5033-4d31-aa5a-c7d9d1915aa9","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ccbf2b24-5033-4d31-aa5a-c7d9d1915aa9","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":{"name":"15991626-fcdd-4fb7-a701-ce6c25b48261","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"ccbf2b24-5033-4d31-aa5a-c7d9d1915aa9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6270c31a-4e7d-4e91-9c46-41afca7d08de","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6270c31a-4e7d-4e91-9c46-41afca7d08de","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":{"name":"15991626-fcdd-4fb7-a701-ce6c25b48261","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"6270c31a-4e7d-4e91-9c46-41afca7d08de","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"052dcae9-99a4-412d-a779-91cc095faf75","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"052dcae9-99a4-412d-a779-91cc095faf75","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":{"name":"15991626-fcdd-4fb7-a701-ce6c25b48261","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"052dcae9-99a4-412d-a779-91cc095faf75","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2f73aa52-289f-47a9-9e60-8454fbda9f44","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2f73aa52-289f-47a9-9e60-8454fbda9f44","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":{"name":"15991626-fcdd-4fb7-a701-ce6c25b48261","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"2f73aa52-289f-47a9-9e60-8454fbda9f44","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f622c920-74bc-4333-b3db-8d6600c9a7ba","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f622c920-74bc-4333-b3db-8d6600c9a7ba","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":{"name":"15991626-fcdd-4fb7-a701-ce6c25b48261","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"f622c920-74bc-4333-b3db-8d6600c9a7ba","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ad166e42-de50-42d2-8c73-a9fd83f4e6d8","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ad166e42-de50-42d2-8c73-a9fd83f4e6d8","path":"sprites/Water_Anim/Water_Anim.yy",},"LayerId":{"name":"15991626-fcdd-4fb7-a701-ce6c25b48261","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","name":"ad166e42-de50-42d2-8c73-a9fd83f4e6d8","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Water_Anim","path":"sprites/Water_Anim/Water_Anim.yy",},
@@ -45,15 +48,16 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 4.0,
+    "length": 5.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"2832956c-a33a-424a-ac37-a8ee18832a8f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"75ff60d2-df25-4647-83f4-a373a72cf8f1","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"d56898e7-67df-450f-86cb-a8b1e6ad4a05","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"512e08e2-3c0e-4bf9-af5c-59f8d7b41f47","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"5fd44e68-eed2-4670-baf6-32ff1036f43d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ccbf2b24-5033-4d31-aa5a-c7d9d1915aa9","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"74209150-d3b8-474a-b3d2-e2389bdf7ed1","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6270c31a-4e7d-4e91-9c46-41afca7d08de","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"93de407d-de38-4057-95b8-ac4120b00fde","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"052dcae9-99a4-412d-a779-91cc095faf75","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fc014f9a-5b42-439d-9a2e-bf10edfda800","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2f73aa52-289f-47a9-9e60-8454fbda9f44","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"28e72ff0-45c3-43e2-aacb-cd9c776a975b","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f622c920-74bc-4333-b3db-8d6600c9a7ba","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"033bb291-c450-4199-a052-dbd9d50e521f","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ad166e42-de50-42d2-8c73-a9fd83f4e6d8","path":"sprites/Water_Anim/Water_Anim.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
