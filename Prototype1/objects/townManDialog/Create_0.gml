@@ -1,0 +1,1 @@
+townManDialog.visible = false;

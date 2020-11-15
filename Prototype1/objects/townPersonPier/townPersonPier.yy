@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Villager_Man1_recycle",
-    "path": "sprites/Villager_Man1_recycle/Villager_Man1_recycle.yy",
+    "name": "Villager_Man1",
+    "path": "sprites/Villager_Man1/Villager_Man1.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"parent":{"name":"townPersonPier","path":"objects/townPersonPier/townPersonPier.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
