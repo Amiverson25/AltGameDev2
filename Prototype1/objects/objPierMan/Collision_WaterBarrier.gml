@@ -25,7 +25,7 @@ YesButton.visible = false;
 //NoButton.y = objDialogBubble.y+ objDialogBubble.height;
 switch(counterTimer){
 	case 1:
-		objDialogBubble.text = "Are you ready for a tutorial?";
+		objDialogBubble.text = "Tuto: Hi Fisherman, I'm here to help you on your way to Fishing Mastery! First, move around with WASD. Lets get over to the shop and get some supplies for the day. Huh? What's that? How can you understand me? I don’t really know myself, I guess it just works out that way. Let's get going.";
 		YesButton.text = "Yup!"
 		YesButton.visible = true;
 		//NoButton.text = "Sure!"

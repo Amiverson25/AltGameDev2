@@ -15,6 +15,8 @@ switch (counterTimer){
 		break;
 	case 4:
 		room = Ocean_Map;
+		audio_stop_sound(TownMusic);
+		audio_play_sound(FishingGame, 0, false);
 	default:	
 		objDialogBubble.text = "Looks like you need to start the tutorial still, go to the house to start it!";
 		YesButton.visible = false;

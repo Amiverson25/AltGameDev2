@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6e1d55a0-af06-45f7-8354-fcfe5eae09dd","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Prototype1",
-    "path": "Prototype1.yyp",
+    "name": "FishermanBackup",
+    "path": "FishermanBackup.yyp",
   },
   "resourceVersion": "1.0",
   "name": "Sprite63",
