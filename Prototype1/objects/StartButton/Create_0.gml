@@ -6,6 +6,8 @@ globalvar fishyy;
 globalvar smallFish;
 globalvar mediFish;
 globalvar largFish;
+globalvar savings;
+global.savings = 0;
 global.smallFish = 0;
 global.mediFish = 0;
 global.largFish = 0;
