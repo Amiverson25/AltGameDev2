@@ -13,9 +13,9 @@ if(instance_exists(scoreObject) && instance_exists(Net) ){
 	}
 	if(Net.scoreGarbage  == 20){
 		global.fishyy = 1;
-		global.smallFish = scoreObject.smolFish;
-		global.mediFish = scoreObject.medFish;
-		global.largFish = scoreObject.bigFish;
+		//global.smallFish = scoreObject.smolFish;
+		//global.mediFish = scoreObject.medFish;
+		//global.largFish = scoreObject.bigFish;
 		//room = Town_Map;
 		room = Ocean_Map;
 	}
