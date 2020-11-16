@@ -4,4 +4,9 @@
 audio_play_sound(Select, 0, false);
 
 curFrame = 2;
-objPierMan.counterTimer++;
+if(instance_exists(objPierMan)){
+	objPierMan.counterTimer++;
+}
+else if(instance_exists(objTownMan)){
+	objTownMan.counterTimer++;
+}
