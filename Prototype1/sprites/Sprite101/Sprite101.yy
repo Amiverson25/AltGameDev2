@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9855ebef-b0e4-4b9e-b5ef-5d086b216e96","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "FishermanBackup",
-    "path": "FishermanBackup.yyp",
+    "name": "Prototype1",
+    "path": "Prototype1.yyp",
   },
   "resourceVersion": "1.0",
   "name": "Sprite101",
