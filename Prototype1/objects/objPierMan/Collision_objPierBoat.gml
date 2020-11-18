@@ -21,6 +21,4 @@ switch (counterTimer){
 		objDialogBubble.text = "Looks like you need to start the tutorial still, go to the house to start it!";
 		YesButton.visible = false;
 		break;
-	
-		
 }

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite104",
-    "path": "sprites/Sprite104/Sprite104.yy",
+    "name": "Sprite78",
+    "path": "sprites/Sprite78/Sprite78.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "MiscObjects",
+    "path": "folders/Objects/MiscObjects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "mapTransport",
+  "name": "wataaBarrier",
   "tags": [],
   "resourceType": "GMObject",
 }
