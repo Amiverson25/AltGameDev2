@@ -41,6 +41,7 @@ function dialog(){
 				break;
 			//day 3!!!!
 			case 6:
+				//eventTwoScript(); 
 				break;
 				/*Two Events:
 				Local Townsman: “Hey fisherman! I’ve been meaning to talk to you. I was wondering if you could loan me a fishing net so I could do my own fishing sometime this week. What do you say partner?”
