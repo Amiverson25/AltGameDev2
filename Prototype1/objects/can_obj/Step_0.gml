@@ -5,5 +5,9 @@
 
 
 
-if (global.pollution>=30) { visible = true
+if (global.pollution>=30) { 
+	can_obj.visible = true;
+}
+else{
+	visible = false;
 }

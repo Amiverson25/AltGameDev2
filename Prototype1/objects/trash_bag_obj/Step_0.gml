@@ -6,5 +6,9 @@
 
 
 
-if (global.pollution>=60) { visible = true
+if (global.pollution>=60) { 
+	trash_bag_obj.visible = true;
+}
+else {
+	visible = false;
 }

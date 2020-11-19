@@ -5,5 +5,9 @@
 
 
 
-if (global.pollution>=40) { visible = true
+if (global.pollution>=40) { 
+	cupstraw_obj.visible = true;
+}
+else {
+	visible = false;
 }

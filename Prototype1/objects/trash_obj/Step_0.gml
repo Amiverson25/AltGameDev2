@@ -3,5 +3,10 @@
 
 
 
-if (global.pollution>=50) { visible = true
+if (global.pollution>=50) { 
+	trash_obj.visible = true;
+
+}
+else{
+	visible = false;
 }

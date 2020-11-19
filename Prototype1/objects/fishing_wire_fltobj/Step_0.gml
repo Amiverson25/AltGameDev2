@@ -6,5 +6,9 @@
 
 
 
-if (global.pollution>=70) { visible = true
+if (global.pollution>=70) { 
+	fishing_wire_fltobj.visible = true;
+}
+else {
+	visible = false;
 }

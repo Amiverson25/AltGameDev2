@@ -6,6 +6,10 @@
 
 //
 
-if (global.pollution>=20) { visible = true
+if (global.pollution>=20) { 
+	Bottle.visible = true;
+}
+else{
+	visible = false;
 }
 

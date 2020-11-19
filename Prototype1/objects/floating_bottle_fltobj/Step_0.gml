@@ -5,5 +5,10 @@
 
 
 
-if (global.pollution>=60) { visible = true
+if (global.pollution>=60) { 
+	visible = true;
+	
+}
+else{
+	visible = false;
 }

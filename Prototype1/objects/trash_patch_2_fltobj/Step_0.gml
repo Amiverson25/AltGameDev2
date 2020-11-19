@@ -4,5 +4,9 @@
 
 
 
-if (global.pollution>=90) { visible = true
+if (global.pollution>=90) { 
+	trash_patch_2_fltobj.visible = true;
+}
+else{
+	visible = false;
 }
