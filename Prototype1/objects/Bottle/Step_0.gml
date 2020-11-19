@@ -4,7 +4,7 @@
 
 
 
-global.pollution = 20;
+//
 
 if (global.pollution>=20) { visible = true
 }

@@ -8,7 +8,7 @@ globalvar mediFish;
 globalvar largFish;
 globalvar savings;
 globalvar pollution;
-global.pollution = 0;
+global.pollution = 20;
 global.savings = 0;
 global.smallFish = 0;
 global.mediFish = 0;
