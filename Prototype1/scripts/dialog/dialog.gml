@@ -2,6 +2,7 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function dialog(){
 	if(instance_exists(objPierMan)){
+		//TODO: these will have to be global variables!!
 		switch(objPierMan.counterTimer){
 			case 1:
 				objDialogBubble.text = "Tuto: Hi Fisherman, I'm here to help you on your way to Fishing Mastery! First, move around with WASD. Lets get over to the shop and get some supplies for the day. Huh? What's that? How can you understand me? I don’t really know myself, I guess it just works out that way. Let's get going.";
@@ -18,6 +19,7 @@ function dialog(){
 				objDialogBubble.text = "Okay, go ahead and go to the shop and we will begin the tutorial";
 				YesButton.text = "This button will be gone";
 				YesButton.visible = true;
+				//when the player goes through the store, increment the switch value by 1
 				break;
 			case 4:
 				//this section of the dialog will be for day 1
@@ -28,19 +30,22 @@ function dialog(){
 				YesButton.text = "This button will be gone";
 				YesButton.visible = true;
 				break;
+			//day 2
 			case 5:
-				objDialogBubble.text = "Hi (fisherman name) yesterday I wasn’t able to buy some fish because it was sold out! I’m really craving fish so would it be alright if I got first dibs on your catch tonight? I’ll even throw in this net I found by the dock here, What do you say?";
+				day2Event();
+				//objDialogBubble.text = "Hi (fisherman name) yesterday I wasn’t able to buy some fish because it was sold out! I’m really craving fish so would it be alright if I got first dibs on your catch tonight? I’ll even throw in this net I found by the dock here, What do you say?";
 				//this is where I get three button's in?
 				/*>Yes (Using the net causes unforeseen pollution when used) “Thank you so much, I seriously can’t wait!”
 				  >Early bird gets the worm “Can’t fight you on that, I’ll be there early just you wait!”
 				  >No that’s okay, we all need to wait patiently for our food. I can’t give special treatment to everyone.”
 				*/
-				YesButton.text = "testing";
-				YesButton.visible = true;
+				//YesButton.text = "testing";
+				//YesButton.visible = true;
 				//than you can procceed for the rest of the day as normal
 				break;
 			//day 3!!!!
 			case 6:
+				day3Events();
 				//eventTwoScript(); 
 				break;
 				/*Two Events:
@@ -79,7 +84,10 @@ function dialog(){
 				break;
 			case 2:
 				objDialogBubble.text = "Looks like something is in the process of being built in the bay over there, they’ve been working on it for awhile now. I wonder what it will be.";
-				YesButton.text = "Maybe I will check it out one day";
+				YesButton.text = "Lets check it out!";
+				//go to the other room to look at the thing
+				//being built
+				//a button on that should have them go back to this map.
 				YesButton.visible = true;
 				break;
 			//below will be the begining of day 2
@@ -92,6 +100,8 @@ function dialog(){
 				YesButton.visible = true;
 				break;
 			case 4:
+				//did we want tuto the seal in the town also?
+				//otherwise this would be in the switch statment above
 				objDialogBubble.text = "Tuto: Wow that's Amazing!, You must really make an impression on these townsfolk. They must really feel safe getting seafood from such a responsible fisherman.";
 				YesButton.text = "I guess so! Wait, hold up...";
 				YesButton.visible = true;

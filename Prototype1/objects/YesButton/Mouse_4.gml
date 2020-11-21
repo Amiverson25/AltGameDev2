@@ -10,3 +10,7 @@ if(instance_exists(objPierMan)){
 else if(instance_exists(objTownMan)){
 	objTownMan.counterTimer++;
 }
+if(instance_exists(objPierBoat)){
+	objPierBoat.startDayOfFishing++;
+}
+	
