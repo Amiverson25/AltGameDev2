@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ObjectsforPierMap",
-    "path": "folders/Objects/ObjectsforPierMap.yy",
+    "name": "TownMapObjects",
+    "path": "folders/Objects/TownMapObjects.yy",
   },
   "resourceVersion": "1.0",
   "name": "townPersonPier",

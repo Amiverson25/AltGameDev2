@@ -7,8 +7,16 @@ globalvar smallFish;
 globalvar mediFish;
 globalvar largFish;
 globalvar savings;
+globalvar pollution;
+globalvar pierManDialog;
+globalvar dialogTownMan;
+
+global.pollution = 0;
 global.savings = 0;
 global.smallFish = 0;
 global.mediFish = 0;
 global.largFish = 0;
 global.fishyy = 0;
+
+global.pierManDialog = 1;
+global.dialogTownMan = 1;
