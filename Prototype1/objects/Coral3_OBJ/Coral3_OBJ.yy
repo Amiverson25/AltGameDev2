@@ -20,12 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Coral3_OBJ","path":"objects/Coral3_OBJ/Coral3_OBJ.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"Coral3_OBJ","path":"objects/Coral3_OBJ/Coral3_OBJ.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ObjectsForMiniGame",
-    "path": "folders/Objects/ObjectsForMiniGame.yy",
+    "name": "coral",
+    "path": "folders/Objects/ObjectsForMiniGame/coral.yy",
   },
   "resourceVersion": "1.0",
   "name": "Coral3_OBJ",
