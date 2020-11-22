@@ -2,8 +2,7 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function dialog(){
 	if(instance_exists(objPierMan)){
-		//TODO: these will have to be global variables!!
-		switch(objPierMan.counterTimer){
+		switch(global.pierManDialog){
 			case 1:
 				objDialogBubble.text = "Tuto: Hi Fisherman, I'm here to help you on your way to Fishing Mastery! First, move around with WASD. Lets get over to the shop and get some supplies for the day. Huh? What's that? How can you understand me? I don’t really know myself, I guess it just works out that way. Let's get going.";
 				YesButton.text = "What, a talking seal?";
@@ -76,7 +75,7 @@ function dialog(){
 	if(instance_exists(objTownMan)){
 		//i suppose if they collide I can call this function?
 		//but I still will want to position the dialog bubble in the collision stuffs
-		switch(objTownMan.counterTimer){
+		switch(global.dialogTownMan){
 			case 1:
 				objDialogBubble.text = "Just another working day huh, I don't mind it at all. I'm doing what I love most and I can enjoy the fresh air and the clear oceans.";
 				YesButton.text = "Dope";
