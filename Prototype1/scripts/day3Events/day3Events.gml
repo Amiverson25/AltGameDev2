@@ -1,7 +1,13 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function day3Events(){
-	/*
+	if(instance_exists(townPersonPier)){
+		if(instance_exists(objDialogBubble)){
+			objDialogBubble.x = townPersonPier.x+25;
+			objDialogBubble.y = townPersonPier.y-50;
+			objDialogBubble.text = "Hey fisherman! I’ve been meaning to talk to you. I was wondering if you could loan me a fishing net so I could do my own fishing sometime this week. What do you say partner?";
+		}
+	}/*
 	Two Events:
 
 Local Townsman: “Hey fisherman! I’ve been meaning to talk to you. I was wondering if you could loan me a fishing net so I could do my own fishing sometime this week. What do you say partner?”

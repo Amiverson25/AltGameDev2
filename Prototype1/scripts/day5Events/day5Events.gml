@@ -1,6 +1,15 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function day5Events(){
+	if(instance_exists(townPersonPier)){
+		if(instance_exists(objDialogBubble)){
+			objDialogBubble.x = townPersonPier.x+25;
+			objDialogBubble.y = townPersonPier.y-50;
+			objDialogBubble.text = "“That’s good to see. I should sign up to help sometime… But I have bigger fish to fry now, but maybe i should help...";
+			//objDialogBubble.text = "Fisherman Help! I’m in need of some money to donate to our local Recycling center. I’m afraid I need 1000 dollars but I promise you it’ll be well worth it;";
+		}
+	}
+	
 /*
 (player finds a community service team picking up trash on the coast)
 “That’s good to see. I should sign up to help sometime… But I have bigger fish to fry now, but maybe i should help...”

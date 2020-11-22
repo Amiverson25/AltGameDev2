@@ -1,6 +1,15 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function day6Events(){
+	if(instance_exists(townPersonPier)){
+		if(instance_exists(objDialogBubble)){
+			objDialogBubble.x = townPersonPier.x+25;
+			objDialogBubble.y = townPersonPier.y-50;
+			objDialogBubble.text = "“Fisherman! We don't feel so good, we’ve been to the doctor recently and apparently we were told we have heavy doses of mercury in our food. You wouldn’t happen to have anything to do with this would you? Well, we just wanted to let you know that the town may be staying away from your fish for a bit.";
+			//objDialogBubble.text = "“That’s good to see. I should sign up to help sometime… But I have bigger fish to fry now, but maybe i should help...";
+			//objDialogBubble.text = "Fisherman Help! I’m in need of some money to donate to our local Recycling center. I’m afraid I need 1000 dollars but I promise you it’ll be well worth it;";
+		}
+	}
 /*
 Event:
 
