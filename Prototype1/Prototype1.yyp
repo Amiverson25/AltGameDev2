@@ -46,6 +46,7 @@
     {"id":{"name":"Sprite78","path":"sprites/Sprite78/Sprite78.yy",},"order":16,},
     {"id":{"name":"Water_bottle_OBJ","path":"objects/Water_bottle_OBJ/Water_bottle_OBJ.yy",},"order":6,},
     {"id":{"name":"objStartGameButton","path":"objects/objStartGameButton/objStartGameButton.yy",},"order":1,},
+    {"id":{"name":"summaryMap","path":"rooms/summaryMap/summaryMap.yy",},"order":7,},
     {"id":{"name":"invsihousse","path":"objects/invsihousse/invsihousse.yy",},"order":4,},
     {"id":{"name":"boat","path":"sprites/boat/boat.yy",},"order":4,},
     {"id":{"name":"House01","path":"sprites/House01/House01.yy",},"order":12,},
@@ -193,6 +194,7 @@
     {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"","path":"",},
     {"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},
+    {"name":"summaryMap","path":"rooms/summaryMap/summaryMap.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
