@@ -3,7 +3,7 @@
 
 
 if (global.pollution>=70) { 
-	visible = true;
+	no_floating_bottle.visible = true;
 }
 else {
 	visible = false;

@@ -6,7 +6,7 @@
 
 
 if (global.pollution>=60) { 
-	visible = true;
+	floating_bottle_fltobj.visible = true;
 	
 }
 else{
