@@ -161,6 +161,7 @@
     {"id":{"name":"trash_bag","path":"sprites/trash_bag/trash_bag.yy",},"order":0,},
     {"id":{"name":"Coral2","path":"sprites/Coral2/Coral2.yy",},"order":1,},
     {"id":{"name":"Ocean_Water_Animated","path":"sprites/Ocean_Water_Animated/Ocean_Water_Animated.yy",},"order":0,},
+    {"id":{"name":"dead_seagull","path":"sprites/dead_seagull/dead_seagull.yy",},"order":16,},
     {"id":{"name":"Regular_bush","path":"sprites/Regular_bush/Regular_bush.yy",},"order":24,},
     {"id":{"name":"button","path":"sprites/button/button.yy",},"order":12,},
     {"id":{"name":"Sand_top","path":"sprites/Sand_top/Sand_top.yy",},"order":0,},
