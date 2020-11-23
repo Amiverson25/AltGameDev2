@@ -177,6 +177,7 @@
     {"id":{"name":"House02","path":"sprites/House02/House02.yy",},"order":14,},
     {"id":{"name":"sprtYesButt","path":"sprites/sprtYesButt/sprtYesButt.yy",},"order":9,},
     {"id":{"name":"trash_patch_non_float2","path":"sprites/trash_patch_non_float2/trash_patch_non_float2.yy",},"order":10,},
+    {"id":{"name":"miniGameManager","path":"objects/miniGameManager/miniGameManager.yy",},"order":11,},
     {"id":{"name":"fishing_wire_fltobj","path":"objects/fishing_wire_fltobj/fishing_wire_fltobj.yy",},"order":3,},
     {"id":{"name":"Beach_Sand","path":"sprites/Beach_Sand/Beach_Sand.yy",},"order":23,},
     {"id":{"name":"trash_patch_2","path":"sprites/trash_patch_2/trash_patch_2.yy",},"order":6,},
