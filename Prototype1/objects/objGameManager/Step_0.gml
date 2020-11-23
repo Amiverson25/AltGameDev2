@@ -11,7 +11,7 @@ if(instance_exists(scoreObject) && instance_exists(Net) ){
 		objDialogBubble.text = "Uh oh it looks like you caught 15 garbage! Don't let it get to 20!";
 		instance_destroy(Fish);
 	}
-	if(Net.scoreGarbage  == 20){
+	if(Net.scoreGarbage  > 2000){
 		global.fishyy = 1;
 		//global.smallFish = scoreObject.smolFish;
 		//global.mediFish = scoreObject.medFish;
