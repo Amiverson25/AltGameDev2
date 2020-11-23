@@ -2,8 +2,8 @@
 // You can write your code in this editor
 
 
-if(x <= 0 - sprite_width){
 if(Net.scoreFish < 5){
+	if(x <= 0 - sprite_width){
 		x = room_width + sprite_width/2;
 		y = random_range(100,600);
 	}
