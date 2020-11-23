@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(Net.scoreFish < 6) {// && Net.startGame == true){
+if(Net.scoreFish < 15) {// && Net.startGame == true){
 	hspeed = - random_range(2,10);
 }
 else{
