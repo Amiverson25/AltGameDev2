@@ -29,6 +29,6 @@ if(instance_exists(scoreObject) && instance_exists(Net) ){
 		//global.mediFish = scoreObject.medFish;
 		//global.largFish = scoreObject.bigFish;
 		//room = Town_Map;
-		room = Ocean_Map;
+		room = financeReport;
 	}
 }	

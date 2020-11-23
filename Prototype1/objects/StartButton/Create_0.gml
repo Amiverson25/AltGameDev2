@@ -11,7 +11,7 @@ globalvar pollution;
 globalvar pierManDialog;
 globalvar dialogTownMan;
 
-global.pollution = 60;
+global.pollution = 0;
 global.savings = 0;
 global.smallFish = 0;
 global.mediFish = 0;
