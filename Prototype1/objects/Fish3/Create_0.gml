@@ -8,5 +8,5 @@ if(Net.scoreFish < 3){
 else{
 	x = -100;
 	y = -100;
-	hspeed = 0;
+    hspeed = 0;
 }

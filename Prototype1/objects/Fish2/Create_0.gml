@@ -6,6 +6,6 @@ if(Net.scoreFish < 6) {// && Net.startGame == true){
 }
 else{
 	x = -100;
-	y = -100;
+    y = -100;
 	hspeed = 0;
 }
