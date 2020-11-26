@@ -168,6 +168,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"Sick_Medium_Fish","path":"objects/Sick_Medium_Fish/Sick_Medium_Fish.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2176.0,"y":352.0,"resourceVersion":"1.0","name":"inst_51ADBDE9","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Sick_Medium_Fish","path":"objects/Sick_Medium_Fish/Sick_Medium_Fish.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2176.0,"y":512.0,"resourceVersion":"1.0","name":"inst_51B95597","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Sick_Large_Fish","path":"objects/Sick_Large_Fish/Sick_Large_Fish.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2336.0,"y":384.0,"resourceVersion":"1.0","name":"inst_28357563","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Fish2","path":"objects/Fish2/Fish2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1504.0,"y":608.0,"resourceVersion":"1.0","name":"inst_751A17B1","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"water_main","path":"sprites/water_main/water_main.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":416.0,"resourceVersion":"1.0","name":"graphic_7B7D1986","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -532,6 +533,7 @@
     {"name":"inst_51ADBDE9","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
     {"name":"inst_51B95597","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
     {"name":"inst_28357563","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
+    {"name":"inst_751A17B1","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

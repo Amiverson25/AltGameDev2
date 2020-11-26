@@ -1,4 +1,4 @@
-if(Net.scoreFish < 20){
+if(Net.scoreFish < 22){
 	if(x <= 0 - sprite_width){
 		x = room_width + sprite_width/2;
 		y = random_range(100,600);

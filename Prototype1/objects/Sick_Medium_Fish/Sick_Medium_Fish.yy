@@ -23,6 +23,7 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Sick_Medium_Fish","path":"objects/Sick_Medium_Fish/Sick_Medium_Fish.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"Sick_Medium_Fish","path":"objects/Sick_Medium_Fish/Sick_Medium_Fish.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Net","path":"objects/Net/Net.yy",},"parent":{"name":"Sick_Medium_Fish","path":"objects/Sick_Medium_Fish/Sick_Medium_Fish.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

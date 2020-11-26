@@ -9,21 +9,21 @@ if(instance_exists(scoreObject) && instance_exists(Net) ){
 	}
 	if(Net.scoreGarbage == 15){
 		objDialogBubble.text = "Uh oh it looks like you caught 15 garbage! Don't let it get higher!";
-		instance_destroy(Fish);
+		//instance_destroy(Fish);
 	}
 	if(Net.scoreGarbage  >= 30){
 		objDialogBubble.text = "THe Garbage..is too High. I can't take it anymore..";
-		instance_destroy(Fish);
+		//instance_destroy(Fish);
 	}
 		if(Net.scoreGarbage  >= 50){
 		objDialogBubble.text = "Fisherman, the objective is to catch fish, not trash.";
-		instance_destroy(Fish);
+		//instance_destroy(Fish);
 	}
 	if(scoreObject.fishCaught >= 15){
 		objDialogBubble.text = "Boat Capacity Almost At Maximum Captian.";
-		instance_destroy(Fish);
+		//instance_destroy(Fish);
 	}
-	if(scoreObject.fishCaught  == 20){
+	if(scoreObject.fishCaught  == 22){
 		global.fishyy = 1;
 		//global.smallFish = scoreObject.smolFish;
 		//global.mediFish = scoreObject.medFish;
