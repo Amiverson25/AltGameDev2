@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this e
 
-//if(Net.startGame == true){
-	hspeed = - 1;
-//}
+if(global.pollution < 80){
+	hspeed = - 1;}
+else{
+	hspeed = 0;
+	}
