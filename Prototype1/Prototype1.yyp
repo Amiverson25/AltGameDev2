@@ -64,6 +64,7 @@
     {"id":{"name":"objStartGameButton","path":"objects/objStartGameButton/objStartGameButton.yy",},"order":1,},
     {"id":{"name":"summaryMap","path":"rooms/summaryMap/summaryMap.yy",},"order":7,},
     {"id":{"name":"invsihousse","path":"objects/invsihousse/invsihousse.yy",},"order":4,},
+    {"id":{"name":"buttonFinance","path":"objects/buttonFinance/buttonFinance.yy",},"order":28,},
     {"id":{"name":"boat","path":"sprites/boat/boat.yy",},"order":4,},
     {"id":{"name":"House01","path":"sprites/House01/House01.yy",},"order":12,},
     {"id":{"name":"Coral1_OBJ","path":"objects/Coral1_OBJ/Coral1_OBJ.yy",},"order":0,},

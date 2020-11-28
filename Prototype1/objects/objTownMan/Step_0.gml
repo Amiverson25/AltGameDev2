@@ -15,14 +15,14 @@ y=clamp(y, 0, room_height);
 	case 1:
 		YesButton.visible = true;
 		YesButton.text = "Okay, let's check it out.";
-		objDialogBubble.text = "Looks like something is in the process of being built in the bay over there, they’ve been working on it for awhile now. I wonder what it will be.";
+		objDialogBubble.text = "Looks like something is in the process of being built in the bay over there, they've been working on it for awhile now. I wonder what it will be.";
 		break;
 	case 2:
 		//YesButton.visible = false;
 		objDialogBubble.text = "Go down and check out what is being built!"
 		break;
 	case 3:
-		//objDialogBubble.text = "“Hello, (fisherman name) I just wanted to let you know that my kids will only eat the fish you catch! It’s a wonder really, before buying from you they refused to eat fish. Here’s something to show my gratitude.”
+		//objDialogBubble.text = "“Hello, (fisherman name) I just wanted to let you know that my kids will only eat the fish you catch! It's a wonder really, before buying from you they refused to eat fish. Here's something to show my gratitude.”
 		break;	
 	case 4:
 		objDialogBubble.text = "";*/

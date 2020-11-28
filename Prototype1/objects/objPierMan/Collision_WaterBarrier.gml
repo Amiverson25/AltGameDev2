@@ -25,7 +25,7 @@ dialog();
 //NoButton.y = objDialogBubble.y+ objDialogBubble.height;
 /*switch(counterTimer){
 	case 1:
-		objDialogBubble.text = "Tuto: Hi Fisherman, I'm here to help you on your way to Fishing Mastery! First, move around with WASD. Lets get over to the shop and get some supplies for the day. Huh? What's that? How can you understand me? I don’t really know myself, I guess it just works out that way. Let's get going.";
+		objDialogBubble.text = "Tuto: Hi Fisherman, I'm here to help you on your way to Fishing Mastery! First, move around with WASD. Lets get over to the shop and get some supplies for the day. Huh? What's that? How can you understand me? I don't really know myself, I guess it just works out that way. Let's get going.";
 		YesButton.text = "Yup!"
 		YesButton.visible = true;
 		//NoButton.text = "Sure!"
@@ -44,7 +44,7 @@ dialog();
 	case 4:
 		//this is where the dialogBubble goes near the person on the pier
 		//also increment the money by 200
-		objDialogBubble.text = "Hello, (fisherman name) I just wanted to let you know that my kids will only eat the fish you catch! It’s a wonder really, before buying from you they refused to eat fish. Here’s something to show my gratitude";
+		objDialogBubble.text = "Hello, (fisherman name) I just wanted to let you know that my kids will only eat the fish you catch! It's a wonder really, before buying from you they refused to eat fish. Here's something to show my gratitude";
 		break;
 	case 5:
 		objDialogBubble.text = "Wow that's Amazing!, You must really make an impression on these townsfolk. They must really feel safe getting seafood from such a responsible fisherman.";
