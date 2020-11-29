@@ -4,9 +4,11 @@
 audio_play_sound(Select, 0, false);
 
 curFrame = 2;
-/*if(instance_exists(objPierMan)){
+global.shop += 100;
+global.nets+=1;
+if(instance_exists(objPierMan)){
 	objPierMan.counterTimer++;
 }
 else if(instance_exists(objTownMan)){
 	objTownMan.counterTimer++;
-}*/
+}

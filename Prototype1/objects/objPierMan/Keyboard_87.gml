@@ -7,7 +7,7 @@
 
 //first get it to go up
 //vspeed-=0.1;
-y-=10;
+y-=5;
 image_speed = 1;
 
 

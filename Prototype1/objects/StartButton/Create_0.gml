@@ -30,6 +30,7 @@ global.gas = 100;
 global.electric = 100;
 global.Food = 100;
 global.totalexpenses = 0;
+global.nets = 0;
 
 
 global.day1 = true;
