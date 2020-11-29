@@ -1,11 +1,16 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-//Total = real(global.largFish*200 + global.mediFish*100 + global.smallFish*50);
+/// @description Insert description here
+// You can write your code in this editor
 
-text = string(real(global.largFish*200 + global.mediFish*100 + global.smallFish*50 - global.caughtTrash*20 - global.caughtsickfish*50 - global.shop - global.rent - global.gas - global.electric - global.Food)) + "\n";
+//Total = real(global.largFish*200 + global.mediFish*100 + global.smallFish*50);
+dangit = global.largFish*200 + global.mediFish*100 + global.smallFish*50 - global.caughtTrash*20 - global.caughtsickfish*50 - global.shop - global.rent - global.gas - global.electric - global.Food
+text = string (dangit);//"\n";
+
+dangit += global.savings;
 
 	
-global.new_total_savings = string(global.savings + real(text))
+global.new_total_savings = dangit;// string(global.savings) + string(real(text));
 
 global.savings = global.new_total_savings
