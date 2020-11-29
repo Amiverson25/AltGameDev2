@@ -1,4 +1,5 @@
-/// @description Insert description here
+//if(YesButton.visible == true){
+	/// @description Insert description here
 // You can write your code in this editor
 
 audio_play_sound(Select, 0, false);
@@ -16,3 +17,5 @@ else if(instance_exists(objTownMan)){
 if(instance_exists(objPierBoat)){
 	objPierBoat.startDayOfFishing++;
 }
+
+//}
