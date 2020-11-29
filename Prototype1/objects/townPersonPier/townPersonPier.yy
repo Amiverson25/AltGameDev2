@@ -20,14 +20,12 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"parent":{"name":"townPersonPier","path":"objects/townPersonPier/townPersonPier.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "TownMapObjects",
-    "path": "folders/Objects/TownMapObjects.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "townPersonPier",

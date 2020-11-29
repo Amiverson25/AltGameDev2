@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-objDialogBubble.visible = true;
+//objDialogBubble.visible = true;
 //objDialogBubble.x = 100;
 //objDialogBubble.y = 100;
 YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
@@ -11,6 +11,7 @@ if (global.nets > 0)
 {
 	switch (objPierBoat.startDayOfFishing){
 		case 1:
+			objDialogBubble.visible = true;
 			objDialogBubble.text = "Are you ready to go fishing?";
 			YesButton.visible = true;
 			YesButton.text = "Yes!";
@@ -23,6 +24,7 @@ if (global.nets > 0)
 	}
 }
 else{
+	objDialogBubble.visible = true;
 	objDialogBubble.text = "It looks like you do not have any nets. You can purchase those at the shop.";
 	YesButton.visible = false;
 	YesButton.text = "Go Back";

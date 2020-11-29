@@ -3,7 +3,7 @@
 //if(NevermindButton.visible == true){
 	audio_play_sound(Select, 0, false);
 	curFrame = 2;
-	objPierBoat.startDayOfFishing = 2;
+	objPierBoat.startDayOfFishing2++;
 //}
 
 /*if(instance_exists(objPierMan)){
