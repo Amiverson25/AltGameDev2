@@ -243,8 +243,8 @@
   },
   "RoomOrder": [
     {"name":"Title_Screen","path":"rooms/Title_Screen/Title_Screen.yy",},
-    {"name":"financeReport","path":"rooms/financeReport/financeReport.yy",},
     {"name":"Side_view_ocean_map","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},
+    {"name":"financeReport","path":"rooms/financeReport/financeReport.yy",},
     {"name":"Ocean_Map","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"Pier_Map","path":"rooms/Pier_Map/Pier_Map.yy",},
