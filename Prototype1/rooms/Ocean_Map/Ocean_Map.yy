@@ -15,6 +15,7 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Clock","path":"objects/obj_Clock/obj_Clock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.5,"scaleY":3.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_3D8F68F9","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Test_Savings_Box","path":"objects/Test_Savings_Box/Test_Savings_Box.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":14.333333,"scaleY":6.33333349,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":0.0,"resourceVersion":"1.0","name":"inst_76FC3D0F","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"objDialogBubble","path":"objects/objDialogBubble/objDialogBubble.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-224.0,"y":352.0,"resourceVersion":"1.0","name":"inst_768DFECB","tags":[],"resourceType":"GMRInstance",},
@@ -309,6 +310,7 @@
     {"name":"inst_2044E7C5","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"inst_47293616","path":"rooms/Ocean_Map/Ocean_Map.yy",},
     {"name":"inst_57F17482","path":"rooms/Ocean_Map/Ocean_Map.yy",},
+    {"name":"inst_76FC3D0F","path":"rooms/Ocean_Map/Ocean_Map.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -11,9 +11,10 @@ globalvar pollution;
 globalvar pierManDialog;
 globalvar dialogTownMan;
 
-global.pollution = 60;
+global.pollution = 10;
 global.caughtsickfish = 0;
-global.savings = 0;
+global.savings = 1000;
+global.new_total_savings = 0;
 global.smallFish = 0;
 global.mediFish = 0;
 global.largFish = 0;
@@ -29,3 +30,12 @@ global.gas = 100;
 global.electric = 100;
 global.Food = 100;
 global.totalexpenses = 0;
+
+
+global.day1 = true;
+global.day2 = false;
+global.day3 = false;
+global.day4 = false;
+global.day5 = false;
+global.day6 = false;
+global.day7 = false;
