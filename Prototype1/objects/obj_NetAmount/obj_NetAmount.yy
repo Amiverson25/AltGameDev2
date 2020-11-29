@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "boat",
-    "path": "sprites/boat/boat.yy",
+    "name": "spr_NetNumber",
+    "path": "sprites/spr_NetNumber/spr_NetNumber.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,16 +21,14 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [],
-  "properties": [
-    {"varType":0,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"startDayOfFishing","tags":[],"resourceType":"GMObjectProperty",},
-  ],
+  "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ObjectsforPierMap",
-    "path": "folders/Objects/ObjectsforPierMap.yy",
+    "name": "MiscObjects",
+    "path": "folders/Objects/MiscObjects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objPierBoat",
+  "name": "obj_NetAmount",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -4,8 +4,7 @@
 audio_play_sound(Select, 0, false);
 
 curFrame = 2;
-
-	if(instance_exists(objPierMan)){
+/*if(instance_exists(objPierMan)){
 	objPierMan.counterTimer++;
 	global.pierManDialog++;
 }
@@ -16,3 +15,4 @@ else if(instance_exists(objTownMan)){
 if(instance_exists(objPierBoat)){
 	objPierBoat.startDayOfFishing++;
 }
+	*/

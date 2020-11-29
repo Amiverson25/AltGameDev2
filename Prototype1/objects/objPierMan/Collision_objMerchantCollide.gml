@@ -12,6 +12,9 @@ objDialogBubble.visible = true;
 YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
 YesButton.y = objDialogBubble.y+ objDialogBubble.height;
 YesButton.visible = false;
+NevermindButton.x = objDialogBubble.x +objDialogBubble.width/4;
+NevermindButton.y = objDialogBubble.y+ objDialogBubble.height;
+NevermindButton.visible = false;
 
 
 //NoButton.x = objDialogBubble.x+objDialogBubble.width/2;
@@ -29,8 +32,9 @@ switch(counterTimer){
 			break;
 		case 2:
 			objDialogBubble.text = "Right now, I am selling a standard fishing net ($100) as well as a new one created with recycled material ($500).";
-			YesButton.text = "Nevermind.";
-			YesButton.visible = true;
+			NevermindButton.text = "Nevermind.";
+			YesButton.visible = false;
+			NevermindButton.visible = true;
 			ShopButton.visible = true;
 			ShopButton2.visible = true;
 
@@ -42,9 +46,9 @@ switch(counterTimer){
 			ShopButton.visible = false;
 			ShopButton2.visible = false;
 			break;
-		default:
-			objDialogBubble.text = "See you tomorrow, fisherman.";
-			YesButton.visible = false;
+		//default:
+			//objDialogBubble.text = "See you tomorrow, fisherman.";
+			//YesButton.visible = false;
 			//NoButton.visible = false;
 	}
 }
