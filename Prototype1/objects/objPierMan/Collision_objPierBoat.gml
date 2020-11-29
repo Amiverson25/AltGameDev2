@@ -7,7 +7,7 @@ objDialogBubble.visible = true;
 //objDialogBubble.y = 100;
 YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
 YesButton.y = objDialogBubble.y+ objDialogBubble.height;
-if (global.nets <= 0) 
+if (global.nets > 0) 
 {
 	switch (objPierBoat.startDayOfFishing){
 		case 1:
@@ -17,8 +17,8 @@ if (global.nets <= 0)
 			break;
 		case 2:
 			room = Ocean_Map;
-			audio_stop_sound(TownMusic);
-			audio_play_sound(FishingGame, 0, false);
+			//audio_stop_sound(TownMusic);
+			//audio_play_sound(FishingGame, 0, false);
 			break;
 	}
 }

@@ -48,6 +48,7 @@
     {"id":{"name":"Coral3_bleached","path":"sprites/Coral3_bleached/Coral3_bleached.yy",},"order":7,},
     {"id":{"name":"straw","path":"sprites/straw/straw.yy",},"order":15,},
     {"id":{"name":"day2Event","path":"scripts/day2Event/day2Event.yy",},"order":2,},
+    {"id":{"name":"pollutionControl","path":"objects/pollutionControl/pollutionControl.yy",},"order":0,},
     {"id":{"name":"FishingGame","path":"sounds/FishingGame/FishingGame.yy",},"order":2,},
     {"id":{"name":"Villager_Man2","path":"sprites/Villager_Man2/Villager_Man2.yy",},"order":6,},
     {"id":{"name":"Tuto_Ghost","path":"sprites/Tuto_Ghost/Tuto_Ghost.yy",},"order":1,},
