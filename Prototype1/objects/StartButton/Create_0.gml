@@ -26,7 +26,7 @@ global.largFish = 0;
 global.fishyy = 0;
 global.caughtTrash = 0;
 
-global.pierManDialog = 5;
+global.pierManDialog = 1;
 global.dialogTownMan = 1;
 
 global.shop = 0;

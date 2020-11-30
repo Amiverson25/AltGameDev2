@@ -2,6 +2,12 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function dialog(){
 	if(instance_exists(objPierMan)){
+		if(global.day == 2){
+			global.pierManDialog = 5;
+		}
+		else if(global.day == 3){
+			global.pierManDialog = 6;
+		}
 		switch(global.pierManDialog){
 			case 1:
 				

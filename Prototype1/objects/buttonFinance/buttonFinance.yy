@@ -38,8 +38,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "ObjectsforPierMap",
-    "path": "folders/Objects/ObjectsforPierMap.yy",
+    "name": "ButtonsForDecisions",
+    "path": "folders/Objects/ButtonsForDecisions.yy",
   },
   "resourceVersion": "1.0",
   "name": "buttonFinance",

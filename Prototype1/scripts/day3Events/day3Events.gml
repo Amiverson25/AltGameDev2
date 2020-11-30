@@ -1,13 +1,42 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function day3Events(){
+	
 	obj_Clock.image_index = 2;
 	if(instance_exists(townPersonPier)){
 		if(instance_exists(objDialogBubble)){
 			objDialogBubble.x = townPersonPier.x+25;
 			objDialogBubble.y = townPersonPier.y-50;
 			objDialogBubble.text = "Hey fisherman! I've been meaning to talk to you. I was wondering if you could loan me a fishing net so I could do my own fishing sometime this week. What do you say partner?";
+			if(global.nets == 0) {
+				CButton.visible = true;
+				CButton.text = "I don't have any nets! Sorry!";
+				CButton.y = objDialogBubble.y + objDialogBubble.height;
+				CButton.x = objDialogBubble.width-50;
+			}
+			else{
+				AButton.x = objDialogBubble.x;
+				AButton.y = objDialogBubble.y + objDialogBubble.height;
+				
+				BButton.x = AButton.x + 205;
+				BButton.y = AButton.y;
+				
+				AButton.text = "Give him a cheap net";
+				BButton.text = "Give him a recycled net";
+				
+				if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, AButton)){
+					objDialogBubble.text = "Thank you fisherman!";
+					global.nets -= 1;
+					global.pollution += 5;
+				}
+				else if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, AButton)){
+					objDialogBubble.text = "Thank you fisherman!";
+					global.nets -= 1;
+					global.pollution -= 5;
+				}
+			}
 		}
+		
 	}/*
 	Two Events:
 

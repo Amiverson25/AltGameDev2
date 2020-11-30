@@ -13,11 +13,11 @@ function day2Event(){
 		AButton.y = objDialogBubble.y + objDialogBubble.height;
 		AButton.text = "Yes";
 		if(instance_exists(BButton)){
-			BButton.x = AButton.x+150;
+			BButton.x = AButton.x+180;
 			BButton.y = objDialogBubble.y + objDialogBubble.height;
 			BButton.text = "No";
 				if(instance_exists(CButton)){
-					CButton.x = BButton.x +150;
+					CButton.x = BButton.x +180;
 					CButton.y = objDialogBubble.y + objDialogBubble.height;
 					CButton.text = "Early bird gets the worm";
 				}
@@ -73,8 +73,7 @@ function day2Event(){
 			BButton.visible = false;
 			objDialogBubble.text = "Thank you so much, I seriously can't wait!"
 			break;
-			
-		
+	
 	}
 }
 	//dialog: “Hi (fisherman name) yesterday I wasn't able to buy some fish because it was sold out! I'm really craving fish so would it be alright if I got first dibs on your catch tonight? I'll even throw in this net I found by the dock here, What do you say?”
