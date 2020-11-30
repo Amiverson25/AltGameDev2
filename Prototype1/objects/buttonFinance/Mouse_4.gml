@@ -4,7 +4,10 @@
 audio_play_sound(Select, 0, false);
 
 curFrame = 2;
-global.dialogTownMan++;
+
+//obj_Clock.image_index++;
+global.dialogTownMan = global.dialogTownMan + 1;
+global.day = global.day + 1;
 global.pollution = global.pollution + 10;
 global.shop = 0;
 global.totalexpenses = 0;

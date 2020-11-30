@@ -10,7 +10,12 @@ globalvar savings;
 globalvar pollution;
 globalvar pierManDialog;
 globalvar dialogTownMan;
+globalvar day;
+globalvar day2Dialog;
 
+global.day2Dialog = 1;
+
+global.day = 1;;
 global.pollution = 10;
 global.caughtsickfish = 0;
 global.savings = 1000;

@@ -4,6 +4,7 @@ function dialog(){
 	if(instance_exists(objPierMan)){
 		switch(global.pierManDialog){
 			case 1:
+				
 				objDialogBubble.text = "Tuto: Hi Fisherman, I'm here to help you on your way to Fishing Mastery! First, move around with WASD. Lets get over to the shop and get some supplies for the day. Huh? What's that? How can you understand me? I don't really know myself, I guess it just works out that way. Let's get going.";
 				YesButton.text = "What, a talking seal?";
 				YesButton.visible = true;
@@ -33,15 +34,6 @@ function dialog(){
 			//day 2
 			case 5:
 				day2Event();
-				//objDialogBubble.text = "Hi (fisherman name) yesterday I wasn't able to buy some fish because it was sold out! I'm really craving fish so would it be alright if I got first dibs on your catch tonight? I'll even throw in this net I found by the dock here, What do you say?";
-				//this is where I get three button's in?
-				/*>Yes (Using the net causes unforeseen pollution when used) “Thank you so much, I seriously can't wait!”
-				  >Early bird gets the worm “Can't fight you on that, I'll be there early just you wait!”
-				  >No that's okay, we all need to wait patiently for our food. I can't give special treatment to everyone.”
-				*/
-				//YesButton.text = "testing";
-				//YesButton.visible = true;
-				//than you can procceed for the rest of the day as normal
 				break;
 			//day 3!!!!
 			case 6:
@@ -79,7 +71,7 @@ function dialog(){
 		switch(global.dialogTownMan){
 			case 1:
 				objDialogBubble.text = "Just another working day huh, I don't mind it at all. I'm doing what I love most and I can enjoy the fresh air and the clear oceans.";
-				YesButton.text = "Dope";
+				YesButton.text = "For playtest purposes this is all the dialog for all the days";
 				YesButton.visible = true;
 				break;
 			case 2:
@@ -169,6 +161,7 @@ function dialog(){
 				break;
 			//day 7
 			case 15:
+				obj_Clock.image_index = 7;
 				objDialogBubble.text = "tuto: Fisherman, I really hope you have been taking my advice to heart over these past days. I'm afraid my time with you is at an end. You see I'm actually a spirit sent back from the powers above to send a message. Please help the planet earth as it struggles from human done pollution.";
 				YesButton.visible = true;
 				break;
