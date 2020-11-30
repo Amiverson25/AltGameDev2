@@ -18,6 +18,9 @@ if (global.nets > 0)
 	
 	if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, YesButton)){
 		room = Ocean_Map;
+		audio_stop_sound(TownMusic);
+		audio_stop_sound(FishingGame)//, 0, false);
+		audio_play_sound(FishingGame, 0, false);
 	}
 	/*switch (objPierBoat.startDayOfFishing){
 		case 1:
