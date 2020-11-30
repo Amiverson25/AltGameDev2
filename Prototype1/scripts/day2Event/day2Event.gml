@@ -4,20 +4,30 @@
 
 function day2Event(){
 	
-					obj_Clock.image_index = 1;
+	obj_Clock.image_index = 1;
 	objDialogBubble.x = townPersonPier.x+25;
 	objDialogBubble.y = townPersonPier.y-50;
-	AButton.x = objDialogBubble.x - 50;
-	BButton.y = objDialogBubble.y - objDialogBubble.height;
-	AButton.text = "Yes!";
 	
-	BButton.x = AButton.x + AButton.width;
-	BButton.y = objDialogBubble.y - objDialogBubble.height;
-	BButton.text = "No";
+	if(instance_exists(AButton)){
+		AButton.x = objDialogBubble.x;
+		AButton.y = objDialogBubble.y + objDialogBubble.height;
+		AButton.text = "Yes";
+		if(instance_exists(BButton)){
+			BButton.x = AButton.x+150;
+			BButton.y = objDialogBubble.y + objDialogBubble.height;
+			BButton.text = "No";
+				if(instance_exists(CButton)){
+					CButton.x = BButton.x +150;
+					CButton.y = objDialogBubble.y + objDialogBubble.height;
+					CButton.text = "Early bird gets the worm";
+				}
+		}
+	}
 	
-	CButton.x = BButton.x + BButton.width;
-	CButton.y = objDialogBubble.y - objDialogBubble.height;
-	CButton.text = "Early bird gets the worm";
+	
+	
+
+
 	
 	if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, AButton)){
 		global.day2Dialog = 2;
@@ -28,11 +38,11 @@ function day2Event(){
 			global.day2Dialog = 5;
 		}
 		else{
-			global.day2Dialog = 3;
+			global.day2Dialog = 4;
 		}
 	}
 	else if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, CButton)){
-		global.day2Dialog = 4;
+		global.day2Dialog = 3;
 	}
 	switch (global.day2Dialog){
 		case 1:
