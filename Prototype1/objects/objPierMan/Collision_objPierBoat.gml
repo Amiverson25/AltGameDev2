@@ -5,8 +5,8 @@
 //objDialogBubble.visible = true;
 //objDialogBubble.x = 100;
 //objDialogBubble.y = 100;
-objDialogBubble.x = objPierMan.x-10;
-objDialogBubble.y = objPierMan.y-10;
+objDialogBubble.x = tutotheseal.x-10;
+objDialogBubble.y = tutotheseal.y-10;
 YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
 YesButton.y = objDialogBubble.y+ objDialogBubble.height;
 if (global.nets > 0) 

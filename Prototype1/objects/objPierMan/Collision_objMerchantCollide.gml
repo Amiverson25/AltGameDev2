@@ -46,6 +46,7 @@ if(instance_exists(ShopButton) && instance_exists(ShopButton2)){
 				break;
 			case 2:
 				objDialogBubble.visible = true;
+				objPierBoat.startDayOfFishing2 = 0;
 				objDialogBubble.text = "Thank you for stopping by!";
 				NevermindButton.visible = false;
 				//NevermindButton.visible = false;
@@ -54,3 +55,4 @@ if(instance_exists(ShopButton) && instance_exists(ShopButton2)){
 				break;
 		}
 }
+

@@ -33,6 +33,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"AButton","path":"objects/AButton/AButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.66666627,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1088.0,"y":608.0,"resourceVersion":"1.0","name":"inst_4DC6CBF6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"BButton","path":"objects/BButton/BButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.66666627,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1088.0,"y":672.0,"resourceVersion":"1.0","name":"inst_119FBAB6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"CButton","path":"objects/CButton/CButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.66666627,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1088.0,"y":736.0,"resourceVersion":"1.0","name":"inst_73766037","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Test_Savings_Box","path":"objects/Test_Savings_Box/Test_Savings_Box.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":11.666667,"scaleY":3.66666675,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":186.0,"resourceVersion":"1.0","name":"inst_6E592C57","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"invsihousse","path":"objects/invsihousse/invsihousse.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":2.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":224.0,"resourceVersion":"1.0","name":"inst_Shop","tags":[],"resourceType":"GMRInstance",},
@@ -648,6 +649,7 @@
     {"name":"inst_4DC6CBF6","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"inst_119FBAB6","path":"rooms/Pier_Map/Pier_Map.yy",},
     {"name":"inst_73766037","path":"rooms/Pier_Map/Pier_Map.yy",},
+    {"name":"inst_6E592C57","path":"rooms/Pier_Map/Pier_Map.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

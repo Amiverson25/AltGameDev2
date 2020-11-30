@@ -14,6 +14,10 @@ globalvar day;
 globalvar day2Dialog;
 
 global.day2Dialog = 1;
+global.day3Dialog = 1;
+
+
+global.nomasNets = 0;
 
 global.day = 1;;
 global.pollution = 10;
@@ -26,7 +30,7 @@ global.largFish = 0;
 global.fishyy = 0;
 global.caughtTrash = 0;
 
-global.pierManDialog = 1;
+global.pierManDialog = 6;
 global.dialogTownMan = 1;
 
 global.shop = 0;
