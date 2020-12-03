@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Villager_Woman2",
-    "path": "sprites/Villager_Woman2/Villager_Woman2.yy",
+    "name": "Villager_Woman2_idle",
+    "path": "sprites/Villager_Woman2_idle/Villager_Woman2_idle.yy",
   },
   "solid": false,
   "visible": true,
