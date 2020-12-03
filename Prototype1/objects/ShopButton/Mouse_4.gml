@@ -5,6 +5,7 @@ audio_play_sound(Select, 0, false);
 
 curFrame = 2;
 global.shop += 100;
+global.savings -= 100;
 global.nets+=1;
 objPierBoat.startDayOfFishing2++;
 global.nomasNets = 2;
