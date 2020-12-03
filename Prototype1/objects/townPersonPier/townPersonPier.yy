@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Villager_Man1",
-    "path": "sprites/Villager_Man1/Villager_Man1.yy",
+    "name": "Villager_Man1_idel",
+    "path": "sprites/Villager_Man1_idel/Villager_Man1_idel.yy",
   },
   "solid": false,
   "visible": true,

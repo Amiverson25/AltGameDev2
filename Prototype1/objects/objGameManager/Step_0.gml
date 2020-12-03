@@ -31,4 +31,8 @@ if(instance_exists(scoreObject) && instance_exists(Net) ){
 		//room = Town_Map;
 		room = financeReport;
 	}
+	if(global.nets <= 0){
+		global.fishyy = 1;
+		room = financeReport;
+	}
 }	
