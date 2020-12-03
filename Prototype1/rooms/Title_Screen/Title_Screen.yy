@@ -17,6 +17,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"objTitle_Screen","path":"objects/objTitle_Screen/objTitle_Screen.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":4.84,"scaleY":4.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":288.0,"resourceVersion":"1.0","name":"inst_4D35777E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"StartButton","path":"objects/StartButton/StartButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.56,"scaleY":3.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":544.0,"resourceVersion":"1.0","name":"inst_30A13D02","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"TitleScreenDialogBox","path":"objects/TitleScreenDialogBox/TitleScreenDialogBox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":74.5,"scaleY":3.66666675,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":800.0,"resourceVersion":"1.0","name":"inst_73EC6572","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_tutorialButton","path":"objects/obj_tutorialButton/obj_tutorialButton.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":2.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":0.0,"resourceVersion":"1.0","name":"inst_49337B99","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"sprTitleBG","path":"sprites/sprTitleBG/sprTitleBG.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":2.45,"scaleY":2.133333,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-544.0,"y":0.0,"resourceVersion":"1.0","name":"graphic_6E3F447B","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -30,6 +31,7 @@
     {"name":"inst_4D35777E","path":"rooms/Title_Screen/Title_Screen.yy",},
     {"name":"inst_30A13D02","path":"rooms/Title_Screen/Title_Screen.yy",},
     {"name":"inst_73EC6572","path":"rooms/Title_Screen/Title_Screen.yy",},
+    {"name":"inst_49337B99","path":"rooms/Title_Screen/Title_Screen.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

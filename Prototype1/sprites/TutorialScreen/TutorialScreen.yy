@@ -14,8 +14,8 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 1024,
+  "height": 1024,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"390b16bd-a5d6-4eef-a9bf-ec2392eefc52","path":"sprites/mailbox/mailbox.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"390b16bd-a5d6-4eef-a9bf-ec2392eefc52","path":"sprites/mailbox/mailbox.yy",},"LayerId":{"name":"cc86a312-d597-4d90-891c-3960d72b4c4d","path":"sprites/mailbox/mailbox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"mailbox","path":"sprites/mailbox/mailbox.yy",},"resourceVersion":"1.0","name":"390b16bd-a5d6-4eef-a9bf-ec2392eefc52","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"080786af-b6af-4f31-a06b-fb1130a36c45","path":"sprites/TutorialScreen/TutorialScreen.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"080786af-b6af-4f31-a06b-fb1130a36c45","path":"sprites/TutorialScreen/TutorialScreen.yy",},"LayerId":{"name":"65141802-ca46-46fd-b7d6-d58df32f159e","path":"sprites/TutorialScreen/TutorialScreen.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"TutorialScreen","path":"sprites/TutorialScreen/TutorialScreen.yy",},"resourceVersion":"1.0","name":"080786af-b6af-4f31-a06b-fb1130a36c45","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"mailbox","path":"sprites/mailbox/mailbox.yy",},
+    "spriteId": {"name":"TutorialScreen","path":"sprites/TutorialScreen/TutorialScreen.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"982e5674-8aae-4e7c-ae6e-75b5106b74bd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"390b16bd-a5d6-4eef-a9bf-ec2392eefc52","path":"sprites/mailbox/mailbox.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9f54066e-4f85-4bcb-864e-fc73d391bfd8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"080786af-b6af-4f31-a06b-fb1130a36c45","path":"sprites/TutorialScreen/TutorialScreen.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"mailbox","path":"sprites/mailbox/mailbox.yy",},
+    "parent": {"name":"TutorialScreen","path":"sprites/TutorialScreen/TutorialScreen.yy",},
     "resourceVersion": "1.3",
-    "name": "mailbox",
+    "name": "TutorialScreen",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"cc86a312-d597-4d90-891c-3960d72b4c4d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"65141802-ca46-46fd-b7d6-d58df32f159e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "mailbox",
+  "name": "TutorialScreen",
   "tags": [],
   "resourceType": "GMSprite",
 }
