@@ -24,6 +24,7 @@ function day4Events(){
 					if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, AButton)){
 						global.pollution += 5;
 						global.dialog4 = 1;
+						
 					}
 					if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y,BButton)){
 						global.pollution += 5;
