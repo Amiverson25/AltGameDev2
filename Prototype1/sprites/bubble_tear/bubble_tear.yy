@@ -41,7 +41,7 @@
     "spriteId": {"name":"bubble_tear","path":"sprites/bubble_tear/bubble_tear.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 1.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
