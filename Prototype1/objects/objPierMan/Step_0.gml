@@ -9,9 +9,6 @@ if(instance_exists(ShopButton) &&  instance_exists(ShopButton2)){
 	ShopButton.visible = false;
 	ShopButton2.visible = false;
 }
-/*if(objPierBoat.startDayOfFishing2 == 2 && !position_meeting(x, y, objPierMan)){
-	objPierBoat.startDayOfFishing = 1;
-}*/
 
 
 

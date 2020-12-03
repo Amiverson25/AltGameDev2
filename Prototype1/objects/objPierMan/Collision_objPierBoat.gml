@@ -2,9 +2,6 @@
 // You can write your code in this editor
 
 
-//objDialogBubble.visible = true;
-//objDialogBubble.x = 100;
-//objDialogBubble.y = 100;
 objDialogBubble.x = tutotheseal.x-10;
 objDialogBubble.y = tutotheseal.y-10;
 YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
