@@ -23,6 +23,7 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objOceanBoat","path":"objects/objOceanBoat/objOceanBoat.yy",},"parent":{"name":"Ivnsii","path":"objects/Ivnsii/Ivnsii.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objOceanMan","path":"objects/objOceanMan/objOceanMan.yy",},"parent":{"name":"Ivnsii","path":"objects/Ivnsii/Ivnsii.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objPierMan","path":"objects/objPierMan/objPierMan.yy",},"parent":{"name":"Ivnsii","path":"objects/Ivnsii/Ivnsii.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

@@ -19,8 +19,8 @@ global.day3Dialog = 1;
 
 global.nomasNets = 0;
 
-global.day = 1;;
-global.pollution = 10;
+global.day = 1;
+global.pollution = 0;
 global.caughtsickfish = 0;
 global.savings = 1000;
 global.new_total_savings = 0;
