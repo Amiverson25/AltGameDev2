@@ -30,6 +30,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"Test_Savings_Box","path":"objects/Test_Savings_Box/Test_Savings_Box.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":11.666667,"scaleY":3.66666675,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":192.0,"resourceVersion":"1.0","name":"inst_10C046A3","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"townPersonPier","path":"objects/townPersonPier/townPersonPier.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":672.0,"resourceVersion":"1.0","name":"inst_2DAB69A3","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Mailbox","path":"objects/Mailbox/Mailbox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":256.0,"resourceVersion":"1.0","name":"inst_B908707","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"TalkToPeople","path":"objects/TalkToPeople/TalkToPeople.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":352.0,"resourceVersion":"1.0","name":"inst_6BB8AC6A","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Ocean_Water_Animated","path":"folders/Sprites/Ocean_Water_Animated.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":160.0,"resourceVersion":"1.0","name":"graphic_461C3E0B","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -861,6 +862,7 @@
     {"name":"inst_2DAB69A3","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"inst_B908707","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"inst_2C071E94","path":"rooms/Town_Map/Town_Map.yy",},
+    {"name":"inst_6BB8AC6A","path":"rooms/Town_Map/Town_Map.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
