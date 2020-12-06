@@ -14,8 +14,7 @@ function day6Events(){
 /*
 Event:
 
-(Townsfolk are sick)
-
+(Townsfolk are sick) 
 “Fisherman! We don't feel so good, we've been to the doctor recently and apparently we were told we have heavy doses of mercury in our food. You wouldn't happen to have anything to do with this would you? Well, we just wanted to let you know that the town may be staying away from your fish for a bit.” 
 
 (Day 6 caught fish profit is cut in half)

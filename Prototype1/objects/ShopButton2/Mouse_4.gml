@@ -5,8 +5,9 @@ audio_play_sound(Select, 0, false);
 
 curFrame = 2;
 global.shop += 500;
+global.savings -= 500;
 global.nets+=1;
-global.pollution = global.pollution - 3;
+//global.pollution = global.pollution - 3;
 objPierBoat.startDayOfFishing2++;
 global.nomasNets = 2;
 /*if(instance_exists(objPierMan)){

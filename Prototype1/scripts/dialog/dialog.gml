@@ -62,10 +62,13 @@ function dialog(){
 				(first cast will catch trash)
 				“Huh, where did this come from? I've never caught anything other than fish in these waters before…” */
 			case 7:
+				day4Events();
 				break;
 			case 8:
+				day5Events();
 				break;
 			case 9:
+				day6Events();
 				break;
 		}
 		//insert pierManDialog

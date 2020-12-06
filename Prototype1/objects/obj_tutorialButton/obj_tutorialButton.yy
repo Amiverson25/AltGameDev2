@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sea_Turtle",
-    "path": "sprites/Sea_Turtle/Sea_Turtle.yy",
+    "name": "TutorialButton",
+    "path": "sprites/TutorialButton/TutorialButton.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,15 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_tutorialButton","path":"objects/obj_tutorialButton/obj_tutorialButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "MiscObjects",
-    "path": "folders/Objects/MiscObjects.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Sea_turtle_OBJ",
+  "name": "obj_tutorialButton",
   "tags": [],
   "resourceType": "GMObject",
 }
