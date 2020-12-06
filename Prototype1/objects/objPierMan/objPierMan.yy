@@ -33,6 +33,7 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"wataaBarrier","path":"objects/wataaBarrier/wataaBarrier.yy",},"parent":{"name":"objPierMan","path":"objects/objPierMan/objPierMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objMerchantCollide","path":"objects/objMerchantCollide/objMerchantCollide.yy",},"parent":{"name":"objPierMan","path":"objects/objPierMan/objPierMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Inviiisaaa","path":"objects/Inviiisaaa/Inviiisaaa.yy",},"parent":{"name":"objPierMan","path":"objects/objPierMan/objPierMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objPierMan","path":"objects/objPierMan/objPierMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":1,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"counterTimer","tags":[],"resourceType":"GMObjectProperty",},

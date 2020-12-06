@@ -2,10 +2,6 @@
 // You can write your code in this editor
 
 
-//text = "Mail: Hello Fisherman, Theres talk of Pollution out in the seas.";
-
-//boxWidth = sprite_get_width(mailbox_dialog);
-//stringHeight = string_height(text);
 
 global.game_width = 1024;
 global.game_height = 1024;
@@ -54,12 +50,11 @@ continue_text_y = continuebox_y +(continuebox_height/2);
 portrait_index = 0;
 counter = 0;
 typewriter = snd_voice2
+select = Select
 
-
-text[0] = "Hello Fisherman, Theres talk of Pollution out in the seas. But we all know that's Hogwash. They say you're considering moving your business in 7 days if it gets worse..";
-text[1] = "But like I said, pollution is consipiracy talk. Like those U.F.O nut jobs. Anyways, let us continue our fishing enterprise and get the big one. From: Fisherman Larry";
+//text[0] = "";
 page = 0;
-name = "MailBox";
+//name = "";
 continuetext = "Press F";
 
 interact_key = ord("F");
@@ -75,5 +70,11 @@ text_max_width = box_width - (2*x_buffer);
 draw_set_font(font);
 text_height = string_height("M");
 
+day_2_gift = 200
 
-event_perform(ev_other, ev_user1);
+choice = 0;
+
+choice_col = c_blue
+
+
+

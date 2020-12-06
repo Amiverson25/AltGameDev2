@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "parNPC",
+    "path": "objects/parNPC/parNPC.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -28,8 +31,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "TownMapObjects",
-    "path": "folders/Objects/TownMapObjects.yy",
+    "name": "NPC",
+    "path": "folders/Objects/NPC.yy",
   },
   "resourceVersion": "1.0",
   "name": "Mailbox",

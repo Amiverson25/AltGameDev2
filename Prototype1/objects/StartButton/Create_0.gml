@@ -21,7 +21,7 @@ global.day3Dialog = 1;
 global.nomasNets = 0;
 global.dialog4 = 0;
 
-global.day = 1;
+global.day = 7;
 global.pollution = 0;
 global.caughtsickfish = 0;
 global.savings = 1000;
@@ -44,10 +44,3 @@ global.totalexpenses = 0;
 global.nets = 0;
 
 
-global.day1 = true;
-global.day2 = false;
-global.day3 = false;
-global.day4 = false;
-global.day5 = false;
-global.day6 = false;
-global.day7 = false;

@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if(!can_move) exit;
+
 
 
 x=clamp(x, -20, room_width);
@@ -27,3 +29,30 @@ y=clamp(y, 0, room_height);
 	case 4:
 		objDialogBubble.text = "";*/
 //}
+
+//UPDATE Input
+
+input_interact = keyboard_check_pressed(ord("F"));
+
+
+//TextBox Collision Check
+if(input_interact){
+	
+	if(active_textbox == noone){
+	
+		var inst = collision_rectangle(x-radius, y-radius, x+radius, y+radius, parNPC, false, false);
+		can_move = false;
+	
+		if(inst != noone){
+			with(inst){
+			var tbox = create_textbox(text, speakers, next_line, scripts);
+			can_move = false;
+			}
+			active_textbox = tbox;
+		}
+	} else {
+		if(!instance_exists(active_textbox)){
+			active_textbox = noone;	
+		}
+	}
+}
