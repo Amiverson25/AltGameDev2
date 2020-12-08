@@ -58,6 +58,7 @@ page = 0;
 continuetext = "Press F";
 
 interact_key = ord("F");
+collide = false;
 
 
 

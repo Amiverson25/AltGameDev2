@@ -27,11 +27,12 @@ if(global.day == 2 and global.day2_took_money = false){
 			],
 			["This will come in handy."
 			],
+			"Wow that's Amazing!, You must really make an impression on these townsfolk. They must really feel safe getting seafood from such a responsible fisherman.",
 			"Thanks Again Fisherman."
 	
 	];
-	speakers = [id,objTownMan, objTownMan, id];
-	next_line = [0, [2], [3], -1];
+	speakers = [id,objTownMan, objTownMan, objTownMan,id];
+	next_line = [0, [2], [3], 0,-1];
 	scripts = [
 		-1,
 		[
@@ -40,6 +41,7 @@ if(global.day == 2 and global.day2_took_money = false){
 		[
 			[change_global,"day2_took_money", true],
 		],
+		-1,
 		-1,
 	];
 	

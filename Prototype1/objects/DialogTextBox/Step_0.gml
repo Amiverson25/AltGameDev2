@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(keyboard_check_pressed(interact_key)){
+if(keyboard_check_pressed(interact_key) || collide == true){
 	
 	audio_play_sound( select, 10, false);
 	
