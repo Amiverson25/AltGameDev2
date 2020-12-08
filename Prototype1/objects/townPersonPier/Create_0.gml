@@ -19,7 +19,7 @@ if(global.day == 1){
 	
 	];
 	speakers = [id,objTownMan, objTownMan , tutotheseal];
-	next_line = [0,0,[3], -1];
+	next_line = [0,0,[0], -1];
 	scripts = [
 		-1,
 		-1,
