@@ -16,3 +16,6 @@ if(!is_array(text[page])){
 }
 counter = 0;
 
+
+
+

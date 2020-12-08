@@ -9,6 +9,7 @@ voice = snd_voice2;
 name = "Mailbox"
 global.day2_took_money = false;
 global.day3_took_money = false;
+global.day_7_donate = false;
 
 if(global.day == 1){
 	text = ["Hello Fisherman, Theres talk of Pollution out in the seas. But we all know that's Hogwash. They say you're considering moving your business in 7 days if it gets worse..",
@@ -49,12 +50,8 @@ if(global.day == 3 and global.day3_took_money = false){
 	text = ["Dear Fisherman: I come with an offer today from yours truly Jenkin's Mc WasteBin. Your notorious catching methods have reached my ears and I am most interested in forming a small investment in your business.",
 			" Don't worry I wont butt in too much. All I ask  is a fair share in your caught fish each day. I'll even give you some money to help out. Sounds like a fair deal right?",
 			["Take 500", 
-			"Don't Take"
-			],
-			["Oh, this must be from the nearby Factory everyone is talking about."
-			],
-			//["He thinks he can get his hands on my fish, I like to see him try."
-			//],
+			"Don't Take"],
+			["Oh, this must be from the nearby Factory everyone is talking about."],
 			"Hmm, I better get to fishing then."
 	
 	];
@@ -64,7 +61,8 @@ if(global.day == 3 and global.day3_took_money = false){
 		-1,
 		-1,
 		[
-			[change_savings_mail_day3, "savings", 500],			
+			[change_savings_mail_day3, "savings", 500],
+			[change_savings_mail_day3_no, "savings", 0],
 		],
 		[
 			[change_global,"day3_took_money", true],
@@ -112,13 +110,29 @@ if(global.day == 6){
 }
 
 
-if(global.day == 7){
+if(global.day == 7 and global.day_7_donate = false){
 	text = ["Keep our bay clean! Reduce, Reuse, Recycle! Please help us in the fight against pollution. Donate now. Only 3000 dollars to help our foundation get a real boost in the fight.",
-			"Oh, should I donate?"
+			"Oh, should I donate?",
+			["Donate 3000", 
+			"Don't Donate"
+			],
+			["I hope this donation does some good."
+			],
+			"Bah! I don't need to donate to some foolish cause.",
+			"I better get going now."
 	];
-	speakers = [id,objTownMan];
-	next_line = [0,-1];
+	speakers = [id, objTownMan, objTownMan, objTownMan, objTownMan, objTownMan];
+	next_line = [0, 0, [3,4], [5], 0, -1];
 	scripts = [
+		-1,
+		-1,
+		[
+			[change_savings_donate_day7, "savings", 3000],
+			[change_savings_donate_day7_no, "savings", 0],
+		],
+		[
+			[change_global, "day_7_donate", true],
+		],
 		-1,
 		-1,
 	];
