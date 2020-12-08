@@ -4,7 +4,7 @@
 
 
 
-portrait_index = 0;
+portrait_index = 3;
 voice = snd_voice2;
 name = "townPersonPier"
 global.day2_took_money = false;
@@ -18,7 +18,7 @@ if(global.day == 1){
 			"Awesome, go ahead and go down to the pier dock and look through the binoculars!"
 	
 	];
-	speakers = [id,objTownMan, objTownMan ,id];
+	speakers = [id,objTownMan, objTownMan , tutotheseal];
 	next_line = [0,0,[3], -1];
 	scripts = [
 		-1,
@@ -27,7 +27,7 @@ if(global.day == 1){
 		[
 			-1,//[change_savings, "savings", 200],
 		],
-		-1,
+		portrait_index = 2,
 	];
 	
 }

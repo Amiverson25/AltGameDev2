@@ -31,7 +31,7 @@ if(global.day == 2 and global.day2_took_money = false){
 			"Thanks Again Fisherman."
 	
 	];
-	speakers = [id,objTownMan, objTownMan, objTownMan,id];
+	speakers = [id,objTownMan, objTownMan, tutotheseal,id];
 	next_line = [0, [2], [3], 0,-1];
 	scripts = [
 		-1,
