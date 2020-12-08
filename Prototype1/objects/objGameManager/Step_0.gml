@@ -34,5 +34,6 @@ if(instance_exists(scoreObject) && instance_exists(Net) ){
 	if(global.nets <= 0){
 		global.fishyy = 1;
 		room = financeReport;
+		
 	}
-}	
+}

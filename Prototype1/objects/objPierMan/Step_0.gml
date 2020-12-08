@@ -11,5 +11,6 @@ if(instance_exists(ShopButton) &&  instance_exists(ShopButton2)){
 }
 
 
-
-
+if (global.nets <= 0) and (global.savings <= 0){
+		room = Game_Over;
+	}

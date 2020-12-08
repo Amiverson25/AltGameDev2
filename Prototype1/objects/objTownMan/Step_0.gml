@@ -30,6 +30,23 @@ y=clamp(y, 0, room_height);
 		objDialogBubble.text = "";*/
 //}
 
+if (global.nets <= 0) and (global.savings <= 0){
+		room = Game_Over;
+	}
+	
+		if (global.day == 8){
+			if (global.pollution <= 70) {
+				room = Win_Room;
+			}
+			if (global.pollution > 70) {
+				room = Game_Over
+			}
+		}
+		
+	
+			
+
+
 //UPDATE Input
 
 input_interact = keyboard_check_pressed(ord("F"));
