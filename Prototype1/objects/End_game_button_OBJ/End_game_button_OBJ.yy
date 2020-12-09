@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "start_button",
-    "path": "sprites/start_button/start_button.yy",
+    "name": "end_button",
+    "path": "sprites/end_button/end_button.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,17 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"parent":{"name":"StartButton","path":"objects/StartButton/StartButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"StartButton","path":"objects/StartButton/StartButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"End_game_button_OBJ","path":"objects/End_game_button_OBJ/End_game_button_OBJ.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "TitleScreenObj",
-    "path": "folders/Objects/TitleScreenObj.yy",
+    "name": "MiscObjects",
+    "path": "folders/Objects/MiscObjects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "StartButton",
+  "name": "End_game_button_OBJ",
   "tags": [],
   "resourceType": "GMObject",
 }

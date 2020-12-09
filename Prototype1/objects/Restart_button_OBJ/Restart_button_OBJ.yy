@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "start_button",
-    "path": "sprites/start_button/start_button.yy",
+    "name": "reset_button",
+    "path": "sprites/reset_button/reset_button.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,17 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"parent":{"name":"StartButton","path":"objects/StartButton/StartButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"StartButton","path":"objects/StartButton/StartButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"Restart_button_OBJ","path":"objects/Restart_button_OBJ/Restart_button_OBJ.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "TitleScreenObj",
-    "path": "folders/Objects/TitleScreenObj.yy",
+    "name": "MiscObjects",
+    "path": "folders/Objects/MiscObjects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "StartButton",
+  "name": "Restart_button_OBJ",
   "tags": [],
   "resourceType": "GMObject",
 }
