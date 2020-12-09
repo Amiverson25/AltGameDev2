@@ -42,17 +42,24 @@ if(input_interact){
 	
 		var inst = collision_rectangle(x-radius, y-radius, x+radius, y+radius, parNPC, false, false);
 		can_move = false;
+		
 	
 		if(inst != noone){
 			with(inst){
 			var tbox = create_textbox(text, speakers, next_line, scripts);
 			can_move = false;
+			
+			
 			}
 			active_textbox = tbox;
 		}
-	} else {
+	} else { 
 		if(!instance_exists(active_textbox)){
 			active_textbox = noone;	
+			
 		}
 	}
 }
+
+alarm[11] = 300;
+can_move = true;

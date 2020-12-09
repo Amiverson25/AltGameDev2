@@ -21,10 +21,10 @@ global.day3Dialog = 1;
 global.nomasNets = 0;
 global.dialog4 = 0;
 
-global.day = 7;
+global.day = 1;
 global.pollution = 0;
 global.caughtsickfish = 0;
-global.savings = 1000;
+global.savings = 1500;
 global.new_total_savings = 0;
 global.smallFish = 0;
 global.mediFish = 0;
