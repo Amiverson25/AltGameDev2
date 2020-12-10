@@ -7,7 +7,8 @@ YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
 YesButton.y = objDialogBubble.y+ objDialogBubble.height;
 YesButton.visible = false;
 
-switch(global.pierManDialog){
+if(global.day == 1){
+	switch(global.pierManDialog){
 			case 1:
 				
 				objDialogBubble.text = "Tuto: Hi Fisherman, I'm here to help you on your way to Fishing Mastery! First, move around with WASD. Lets get over to the shop and get some supplies for the day. Huh? What's that? How can you understand me? I don't really know myself, I guess it just works out that way. Let's get going.";
@@ -36,4 +37,5 @@ switch(global.pierManDialog){
 				YesButton.text = "This button will be gone";
 				YesButton.visible = false;
 				break;
+}
 }

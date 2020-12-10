@@ -4,6 +4,9 @@
 x=clamp(x, -20, room_width);
 y=clamp(y, 0, room_height);
 YesButton.visible = false;
+AButton.visible = false;
+BButton.visible = false;
+CButton.visible = false;
 NevermindButton.visible = false;
 if(instance_exists(ShopButton) &&  instance_exists(ShopButton2)){
 	ShopButton.visible = false;

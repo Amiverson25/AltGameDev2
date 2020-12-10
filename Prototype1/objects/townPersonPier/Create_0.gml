@@ -4,7 +4,7 @@
 
 
 
-portrait_index = 3;
+portrait_index = 6;
 voice = snd_voice2;
 name = "townPersonPier"
 global.day2_took_money = false;
