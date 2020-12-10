@@ -70,7 +70,7 @@ text_max_width = box_width - (2*x_buffer);
 draw_set_font(font);
 text_height = string_height("M");
 
-day_2_gift = 200
+//day_2_gift = 200
 
 choice = 0;
 

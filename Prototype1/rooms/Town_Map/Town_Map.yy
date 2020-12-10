@@ -865,7 +865,7 @@
     {"name":"inst_453DA7A1","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"inst_2DAB69A3","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"inst_B908707","path":"rooms/Town_Map/Town_Map.yy",},
-    {"name":"inst_2C071E94","path":"rooms/Town_Map/Town_Map.yy",},
+    {"name":"Town_Map","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"inst_6BB8AC6A","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"inst_4BAE7208","path":"rooms/Town_Map/Town_Map.yy",},
     {"name":"inst_69A01602","path":"rooms/Town_Map/Town_Map.yy",},

@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-portrait_index = 2;
+portrait_index = 3;
 voice = snd_voice2;
 name = "Dany";
 
@@ -96,32 +96,12 @@ if(global.day == 5){
 }
 
 if(global.day == 6){
-	portrait_index = 3
 	text = ["Fisherman, I ate some fish last night and now I don't feel so good..", 
 			"Hmm must be a common cold. I'm sure you'll be fine kid.",
-			"I think I need to take a nap...",
-			"Sounds like a plan kid. I got work to do."
 			];
-	speakers = [id, objTownMan, id, objTownMan];
-	next_line = [0,0,0,-1];
+	speakers = [id, objTownMan];
+	next_line = [0,-1];
 	scripts = [
-		-1,
-		-1,
-		-1,
-		-1,
-	];
-}
-
-if(global.day == 7){
-	portrait_index = 3
-	text = ["I don't feel so good...", 
-			"Just hold out a little longer kid. I'm sure you'll get better soon.",
-			"Thanks Fisherman.",
-			];
-	speakers = [id, objTownMan, id];
-	next_line = [0,0,-1];
-	scripts = [
-		-1,
 		-1,
 		-1,
 	];
