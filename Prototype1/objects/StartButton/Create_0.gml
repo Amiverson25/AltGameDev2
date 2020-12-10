@@ -13,6 +13,7 @@ globalvar dialogTownMan;
 globalvar day;
 globalvar day2Dialog;
 globalvar dialog4;
+globalvar day3Visited;
 
 global.day2Dialog = 1;
 global.day3Dialog = 1;
@@ -22,6 +23,7 @@ global.nomasNets = 0;
 global.dialog4 = 0;
 
 global.day = 1;
+global.day3Visited = false;
 global.pollution = 0;
 global.caughtsickfish = 0;
 global.savings = 1000;

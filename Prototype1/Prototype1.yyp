@@ -19,6 +19,7 @@
     {"id":{"name":"Post","path":"sprites/Post/Post.yy",},"order":17,},
     {"id":{"name":"Villager_Boy1","path":"sprites/Villager_Boy1/Villager_Boy1.yy",},"order":3,},
     {"id":{"name":"parNPC","path":"objects/parNPC/parNPC.yy",},"order":1,},
+    {"id":{"name":"testMap","path":"rooms/testMap/testMap.yy",},"order":13,},
     {"id":{"name":"objOceanMan","path":"objects/objOceanMan/objOceanMan.yy",},"order":1,},
     {"id":{"name":"Inviiisaaa","path":"objects/Inviiisaaa/Inviiisaaa.yy",},"order":3,},
     {"id":{"name":"Side_view_ocean_map","path":"rooms/Side_view_ocean_map/Side_view_ocean_map.yy",},"order":5,},
@@ -137,6 +138,7 @@
     {"id":{"name":"Coral3","path":"sprites/Coral3/Coral3.yy",},"order":2,},
     {"id":{"name":"Lamp_post","path":"sprites/Lamp_post/Lamp_post.yy",},"order":16,},
     {"id":{"name":"text_box_dialog","path":"sprites/text_box_dialog/text_box_dialog.yy",},"order":2,},
+    {"id":{"name":"deadBird","path":"objects/deadBird/deadBird.yy",},"order":14,},
     {"id":{"name":"trash_patch_1_fltobj","path":"objects/trash_patch_1_fltobj/trash_patch_1_fltobj.yy",},"order":7,},
     {"id":{"name":"can","path":"sprites/can/can.yy",},"order":3,},
     {"id":{"name":"obj_backButton2","path":"objects/obj_backButton2/obj_backButton2.yy",},"order":29,},
@@ -312,6 +314,7 @@
     {"name":"Game_Over","path":"rooms/Game_Over/Game_Over.yy",},
     {"name":"Win_Room","path":"rooms/Win_Room/Win_Room.yy",},
     {"name":"FactoryScene","path":"rooms/FactoryScene/FactoryScene.yy",},
+    {"name":"testMap","path":"rooms/testMap/testMap.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
