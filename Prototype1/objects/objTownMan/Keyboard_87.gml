@@ -7,5 +7,9 @@
 
 //first get it to go up
 //vspeed-=0.1;
-y-=3;
-image_speed = 1;
+
+
+if(can_move == true){
+	y-=3;
+	image_speed = 1;
+}

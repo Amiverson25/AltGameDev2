@@ -11,6 +11,6 @@ text = string (dangit);//"\n";
 dangit += global.savings;
 
 	
-global.new_total_savings = dangit;// string(global.savings) + string(real(text));
+global.new_total_savings = dangit;
 
 global.savings = global.new_total_savings
