@@ -43,8 +43,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "ObjectsforPierMap",
-    "path": "folders/Objects/ObjectsforPierMap.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "objPierMan",

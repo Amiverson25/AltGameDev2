@@ -32,6 +32,38 @@ if (global.nets > 0)
 			global.day3TalkedToBoat = 1;
 		}
 	}
+	
+	else if(global.day == 5 && global.day5TalkedToBoat == 0){
+		objDialogBubble.visible = true;
+		AButton.visible = true;
+		BButton.visible = true;
+		CButton.visible = true;
+		objDialogBubble.text = "What the.. Some leftover trash is on my boat...those dang kids! If I take it to the dump now I won't be able to fish today.. What to do..";
+		AButton.y = objDialogBubble.y+ objDialogBubble.height;
+		BButton.y = objDialogBubble.y+ objDialogBubble.height;
+		CButton.y = objDialogBubble.y+ objDialogBubble.height;
+		AButton.text = "Take to the dump";
+		BButton.text = "Take to recycle center";
+		CButton.text = "Have a local take it for you";
+		
+		AButton.x = objDialogBubble.x;
+		BButton.x = AButton.x + AButton.sprite_width;//-BButton.sprite_width;//AButton.x + AButton.sprite_width;
+		CButton.x = BButton.x + BButton.sprite_width;
+		if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, AButton)){
+			global.pollution = global.pollution + 5;
+			//global.savings = global.savings + 300;
+			global.day5TalkedToBoat = 2;
+		}
+		if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, BButton)){
+			global.pollution = global.pollution - 5;
+			//global.savings = global.savings - 500;
+			global.day5TalkedToBoat = 2;
+		}
+		if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, CButton)){
+			global.pollution = global.pollution - 10;
+			global.day5TalkedToBoat = 1;
+		}
+	}
 	//else if (global.day == 5 && global.
 	/*
 	What the.. Some leftover trash is on my boat...those dang kids! If I take it to the dump now I won't be able to fish today.. What to do..
