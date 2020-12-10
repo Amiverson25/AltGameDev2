@@ -9,10 +9,12 @@ function day2Event(){
 	objDialogBubble.y = townPersonPier.y-50;
 	
 	if(instance_exists(AButton)){
+		AButton.visible = true;
 		AButton.x = objDialogBubble.x;
 		AButton.y = objDialogBubble.y + objDialogBubble.height;
 		AButton.text = "Yes";
 		if(instance_exists(BButton)){
+			BButton.visible = true;
 			BButton.x = AButton.x+180;
 			BButton.y = objDialogBubble.y + objDialogBubble.height;
 			BButton.text = "No";

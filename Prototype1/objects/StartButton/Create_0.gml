@@ -30,7 +30,7 @@ global.day3Dialog = 1;
 global.nomasNets = 0;
 global.dialog4 = 0;
 
-global.day = 1;
+global.day = 2;
 global.day3TalkedToBoat = 0;
 global.day5TalkedToBoat = 0;
 global.pollution = 0;

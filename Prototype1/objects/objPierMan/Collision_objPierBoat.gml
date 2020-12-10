@@ -11,7 +11,11 @@ if (global.nets > 0)
 	
 	if(global.day == 3 && global.day3TalkedToBoat == 0){
 		objDialogBubble.visible = true;
-		objDialogBubble.text = "Fisherman: “Hmm.. Looks like I'll have to dump off some of my used supplies that are of no use to me. If I take a trip to the recycling center it’s going to eat up some of my fishing day today. What to do..";
+		AButton.visible = true;
+		BButton.visible = true;
+		objDialogBubble.text = "Fisherman: Hmm.. Looks like I'll have to dump off some of my used supplies that are of no use to me. If I take a trip to the recycling center it’s going to eat up some of my fishing day today. What to do..";
+		AButton.x = objDialogBubble.x;
+		BButton.x = objDialogBubble.x + AButton.sprite_width;
 		AButton.y = objDialogBubble.y+ objDialogBubble.height;
 		BButton.y = objDialogBubble.y+ objDialogBubble.height;
 	
