@@ -69,7 +69,8 @@ if(input_interact){
 		}
 	} else {
 		if(!instance_exists(active_textbox)){
-			active_textbox = noone;	
+			active_textbox = noone;
+			can_move = true;
 		}
 	}
 }
