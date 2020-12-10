@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite62",
-    "path": "sprites/Sprite62/Sprite62.yy",
+    "name": "start_button",
+    "path": "sprites/start_button/start_button.yy",
   },
   "solid": false,
   "visible": true,

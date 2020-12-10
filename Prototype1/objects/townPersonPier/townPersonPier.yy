@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "Villager_Man1",
-    "path": "sprites/Villager_Man1/Villager_Man1.yy",
+    "name": "Villager_Man1_idel",
+    "path": "sprites/Villager_Man1_idel/Villager_Man1_idel.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "parNPC",
+    "path": "objects/parNPC/parNPC.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -21,13 +24,14 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"parent":{"name":"townPersonPier","path":"objects/townPersonPier/townPersonPier.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"townPersonPier","path":"objects/townPersonPier/townPersonPier.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"townPersonPier","path":"objects/townPersonPier/townPersonPier.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "TownMapObjects",
-    "path": "folders/Objects/TownMapObjects.yy",
+    "name": "NPC",
+    "path": "folders/Objects/NPC.yy",
   },
   "resourceVersion": "1.0",
   "name": "townPersonPier",

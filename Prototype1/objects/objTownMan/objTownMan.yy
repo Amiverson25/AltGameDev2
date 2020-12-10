@@ -28,7 +28,10 @@
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":1,"eventType":3,"collisionObjectId":null,"parent":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"WaterBarrier","path":"objects/WaterBarrier/WaterBarrier.yy",},"parent":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Inviiisaaa","path":"objects/Inviiisaaa/Inviiisaaa.yy",},"parent":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"townPersonPier","path":"objects/townPersonPier/townPersonPier.yy",},"parent":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"TalkToPeople","path":"objects/TalkToPeople/TalkToPeople.yy",},"parent":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objTownMan","path":"objects/objTownMan/objTownMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":1,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"counterTimer","tags":[],"resourceType":"GMObjectProperty",},
