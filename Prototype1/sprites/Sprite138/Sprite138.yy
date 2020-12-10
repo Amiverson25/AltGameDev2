@@ -15,7 +15,7 @@
   "VTile": false,
   "For3D": false,
   "width": 64,
-  "height": 128,
+  "height": 120,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d0503e9f-071d-4c18-9ef3-b54ebb0cb817","path":"sprites/coin_op_binoculars/coin_op_binoculars.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d0503e9f-071d-4c18-9ef3-b54ebb0cb817","path":"sprites/coin_op_binoculars/coin_op_binoculars.yy",},"LayerId":{"name":"39bb9d52-90cb-465a-8564-c88744b6572a","path":"sprites/coin_op_binoculars/coin_op_binoculars.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"coin_op_binoculars","path":"sprites/coin_op_binoculars/coin_op_binoculars.yy",},"resourceVersion":"1.0","name":"d0503e9f-071d-4c18-9ef3-b54ebb0cb817","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ee7b72c4-3690-4f2a-b734-075353cb1053","path":"sprites/Sprite138/Sprite138.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ee7b72c4-3690-4f2a-b734-075353cb1053","path":"sprites/Sprite138/Sprite138.yy",},"LayerId":{"name":"d0228d42-7169-46cb-ba39-1bc26806d6b5","path":"sprites/Sprite138/Sprite138.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Sprite138","path":"sprites/Sprite138/Sprite138.yy",},"resourceVersion":"1.0","name":"ee7b72c4-3690-4f2a-b734-075353cb1053","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"coin_op_binoculars","path":"sprites/coin_op_binoculars/coin_op_binoculars.yy",},
+    "spriteId": {"name":"Sprite138","path":"sprites/Sprite138/Sprite138.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"f76b82c1-0bd0-464d-8f95-eb58cd847124","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d0503e9f-071d-4c18-9ef3-b54ebb0cb817","path":"sprites/coin_op_binoculars/coin_op_binoculars.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1d5dbf0e-3117-48ab-96fd-aaa0eee7aced","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ee7b72c4-3690-4f2a-b734-075353cb1053","path":"sprites/Sprite138/Sprite138.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"coin_op_binoculars","path":"sprites/coin_op_binoculars/coin_op_binoculars.yy",},
+    "parent": {"name":"Sprite138","path":"sprites/Sprite138/Sprite138.yy",},
     "resourceVersion": "1.3",
-    "name": "coin_op_binoculars",
+    "name": "Sprite138",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"39bb9d52-90cb-465a-8564-c88744b6572a","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d0228d42-7169-46cb-ba39-1bc26806d6b5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Environment Assets",
-    "path": "folders/Sprites/Environment Assets.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "coin_op_binoculars",
+  "name": "Sprite138",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -232,6 +232,7 @@
     {"id":{"name":"objMerchantCollide","path":"objects/objMerchantCollide/objMerchantCollide.yy",},"order":13,},
     {"id":{"name":"TutorialScreen","path":"sprites/TutorialScreen/TutorialScreen.yy",},"order":25,},
     {"id":{"name":"House02","path":"sprites/House02/House02.yy",},"order":14,},
+    {"id":{"name":"Sprite138","path":"sprites/Sprite138/Sprite138.yy",},"order":30,},
     {"id":{"name":"sprtYesButt","path":"sprites/sprtYesButt/sprtYesButt.yy",},"order":10,},
     {"id":{"name":"trash_patch_non_float2","path":"sprites/trash_patch_non_float2/trash_patch_non_float2.yy",},"order":10,},
     {"id":{"name":"fishing_wire_fltobj","path":"objects/fishing_wire_fltobj/fishing_wire_fltobj.yy",},"order":3,},
