@@ -85,7 +85,7 @@
   ],
   "parent": {
     "name": "Ocean_Water_Animated",
-    "path": "folders/Sprites/Ocean_Water_Animated.yy",
+    "path": "folders/Sprites/ocean_sideview_assets/Ocean_Water_Animated.yy",
   },
   "resourceVersion": "1.0",
   "name": "Ocean_Water_Animated",
