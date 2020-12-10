@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "TutorialButton",
-    "path": "sprites/TutorialButton/TutorialButton.yy",
+    "name": "Villager_Man1_recycle",
+    "path": "sprites/Villager_Man1_recycle/Villager_Man1_recycle.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "parNPC",
+    "path": "objects/parNPC/parNPC.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -21,16 +24,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_tutorialButton","path":"objects/obj_tutorialButton/obj_tutorialButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Enviroman","path":"objects/Enviroman/Enviroman.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "NPC",
+    "path": "folders/Objects/NPC.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_tutorialButton",
+  "name": "Enviroman",
   "tags": [],
   "resourceType": "GMObject",
 }

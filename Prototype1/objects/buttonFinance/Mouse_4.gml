@@ -19,5 +19,6 @@ global.smallFish = 0;
 room = Town_Map;
 
 audio_stop_sound(FishingGame);
+audio_stop_sound(TownMusic);
 audio_stop_sound(FishingGame)//, 0, false);
 audio_play_sound(TownMusic, 0, false);

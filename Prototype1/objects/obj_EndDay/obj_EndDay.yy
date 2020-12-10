@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "TutorialButton",
-    "path": "sprites/TutorialButton/TutorialButton.yy",
+    "name": "sprBackButton",
+    "path": "sprites/sprBackButton/sprBackButton.yy",
   },
-  "solid": false,
-  "visible": false,
+  "solid": true,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,16 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_tutorialButton","path":"objects/obj_tutorialButton/obj_tutorialButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_EndDay","path":"objects/obj_EndDay/obj_EndDay.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "MiscObjects",
+    "path": "folders/Objects/MiscObjects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_tutorialButton",
+  "name": "obj_EndDay",
   "tags": [],
   "resourceType": "GMObject",
 }
