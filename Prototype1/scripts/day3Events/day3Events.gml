@@ -1,8 +1,8 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function day3Events(){
-
-	obj_Clock.image_index = 2;
+	if(global.day == 3){
+		obj_Clock.image_index = 2;
 	if(instance_exists(townPersonPier)){
 		if(instance_exists(objDialogBubble)){
 			objDialogBubble.x = townPersonPier.x+25;
@@ -61,6 +61,7 @@ function day3Events(){
 				}
 			}
 		}
+	}
 	}
 }
 

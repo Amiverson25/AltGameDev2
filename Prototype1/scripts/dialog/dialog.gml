@@ -1,15 +1,36 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function dialog(){
-	if(instance_exists(objPierMan)){
+	if(global.day == 2){
+		day2Event();
+	}
+	else if(global.day == 3)
+	{
+		day3Events();
+	}
+	else if(global.day == 4)
+	{
+		day4Events();
+	}
+	else if(global.day == 5)
+	{
+		day5Events();
+	}
+	else if(global.day == 6)
+	{
+		day6Events();
+	}
+	
+	
+	/*if(instance_exists(objPierMan)){
 		if(global.day == 2){
 			global.pierManDialog = 5;
 		}
 		else if(global.day == 3){
 			global.pierManDialog = 6;
 		}
-		switch(global.pierManDialog){
-			case 1:
+		/*switch(global.pierManDialog){
+			/*case 1:
 				
 				objDialogBubble.text = "Tuto: Hi Fisherman, I'm here to help you on your way to Fishing Mastery! First, move around with WASD. Lets get over to the shop and get some supplies for the day. Huh? What's that? How can you understand me? I don't really know myself, I guess it just works out that way. Let's get going.";
 				YesButton.text = "What, a talking seal?";
@@ -24,7 +45,7 @@ function dialog(){
 				//possibly trigger an event about shopping.
 				//player goes through tutorial, still tbh when it comes to the supplies, and how we might do this
 				objDialogBubble.text = "Okay, go ahead and go to the shop and we will begin the tutorial";
-				YesButton.text = "This is when fisherman goes shopping";
+				YesButton.text = "Lets go!";
 				YesButton.visible = true;
 				//when the player goes through the store, increment the switch value by 1
 				break;
@@ -36,9 +57,9 @@ function dialog(){
 				objDialogBubble.text = "Okay, now that you learned about the shop and have your supplies, lets go fishing! Head on over to the boat.";
 				YesButton.text = "This button will be gone";
 				YesButton.visible = false;
-				break;
+				break;*/
 			//day 2
-			case 5:
+			/*if(global.day
 				day2Event();
 				break;
 			//day 3!!!!
@@ -60,21 +81,24 @@ function dialog(){
 
 
 				(first cast will catch trash)
-				“Huh, where did this come from? I've never caught anything other than fish in these waters before…” */
-			case 7:
-				day4Events();
-				break;
-			case 8:
-				day5Events();
-				break;
-			case 9:
-				day6Events();
-				break;
-		}
+	/			“Huh, where did this come from? I've never caught anything other than fish in these waters before…” */
+	//		case 7:
+	//			day4Events();
+	//			break;
+	//		case 8:
+	//			day5Events();
+	//			break;
+	//		case 9:
+	//			day6Events();
+	//			break;
+	//		default:
+	//			objDialogBubble.visible = false;
+	//			break;
+	//	}
 		//insert pierManDialog
-	}
+	//}
 	
-	if(instance_exists(objTownMan)){
+/*	if(instance_exists(objTownMan)){
 		//i suppose if they collide I can call this function?
 		//but I still will want to position the dialog bubble in the collision stuffs
 		switch(global.dialogTownMan){
@@ -143,7 +167,7 @@ function dialog(){
 				Or 
 				-Wow! Good Job. Looks like the pollution is at a minimal level. We should continue fighting off pollution. Have you tried using better materials on your fishing boat?”
 				*/
-				YesButton.visible = true;
+		/*		YesButton.visible = true;
 				break;
 			case 11:
 				objDialogBubble.text = "You: What the, Again? Hey.. wait..“I swear I didn't drink last night.. Hmm maybe he's right.. I should be more active in the fight against pollution."
@@ -188,4 +212,5 @@ function dialog(){
 		}
 		//insert town dialog
 	}
+}*/
 }

@@ -9,7 +9,7 @@ YesButton.y = objDialogBubble.y+ objDialogBubble.height;
 if (global.nets > 0) 
 {
 	
-	if(global.day == 3){
+	if(global.day == 3 && global.day3TalkedToBoat == 0){
 		objDialogBubble.visible = true;
 		objDialogBubble.text = "Fisherman: “Hmm.. Looks like I'll have to dump off some of my used supplies that are of no use to me. If I take a trip to the recycling center it’s going to eat up some of my fishing day today. What to do..";
 		AButton.y = objDialogBubble.y+ objDialogBubble.height;
@@ -24,13 +24,17 @@ if (global.nets > 0)
 		if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, AButton)){
 			global.pollution = global.pollution + 5;
 			global.savings = global.savings + 300;
+			global.day3TalkedToBoat = 1;
 		}
 		if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, BButton)){
 			global.pollution = global.pollution - 5;
 			global.savings = global.savings - 500;
+			global.day3TalkedToBoat = 1;
 		}
 	}
 	else{
+		AButton.y = 20000;
+		BButton.y = 20000;
 		objDialogBubble.visible = true;
 		objDialogBubble.text = "Are you ready to go fishing?";
 		YesButton.visible = true;

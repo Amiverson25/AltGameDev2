@@ -9,7 +9,7 @@ global.savings -= 500;
 global.nets+=1;
 //global.pollution = global.pollution - 3;
 objPierBoat.startDayOfFishing2++;
-global.nomasNets = 2;
+//global.nomasNets = 2;
 /*if(instance_exists(objPierMan)){
 	objPierMan.counterTimer++;
 }

@@ -36,6 +36,7 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Binoculars","path":"objects/obj_Binoculars/obj_Binoculars.yy",},"parent":{"name":"objPierMan","path":"objects/objPierMan/objPierMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objPierMan","path":"objects/objPierMan/objPierMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"deadBird","path":"objects/deadBird/deadBird.yy",},"parent":{"name":"objPierMan","path":"objects/objPierMan/objPierMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"tutotheseal","path":"objects/tutotheseal/tutotheseal.yy",},"parent":{"name":"objPierMan","path":"objects/objPierMan/objPierMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":1,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"counterTimer","tags":[],"resourceType":"GMObjectProperty",},

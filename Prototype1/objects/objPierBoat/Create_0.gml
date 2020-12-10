@@ -4,7 +4,7 @@
 // You can write your code in this editor
 
 
-
+/*
 
 portrait_index = 0;
 voice = snd_voice2;
@@ -26,7 +26,7 @@ if(global.day == 3 && global.day3Visited == false){
 		],
 		-1,
 	];
-}
+}*/
 
 
 
