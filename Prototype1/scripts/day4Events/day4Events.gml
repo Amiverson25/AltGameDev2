@@ -6,6 +6,9 @@ function day4Events(){
 		if(instance_exists(objDialogBubble)){
 			//switch(global.dialog4){
 				if(global.dialog4 == 0){
+					AButton.visible = true;
+					BButton.visible = true;
+					CButton.visible = true;
 					AButton.x = objDialogBubble.x;
 					AButton.y = objDialogBubble.y + objDialogBubble.height;
 					AButton.text = "Give him some of your used Fuel and 100.";

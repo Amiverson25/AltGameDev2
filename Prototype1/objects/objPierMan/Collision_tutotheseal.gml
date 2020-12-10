@@ -37,5 +37,11 @@ if(global.day == 1){
 				YesButton.text = "This button will be gone";
 				YesButton.visible = false;
 				break;
+			default:
+				objDialogBubble.visible = false;
+				break;
+	}
 }
+else{
+	objDialogBubble.visible = false;
 }

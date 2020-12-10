@@ -15,6 +15,9 @@ function day3Events(){
 
 				BButton.x = AButton.x + 205;
 				BButton.y = AButton.y;
+				
+				AButton.visible = true;
+				BButton.visible = true;
 
 				AButton.text = "Give him a cheap net";
 				BButton.text = "Give him a recycled net";
