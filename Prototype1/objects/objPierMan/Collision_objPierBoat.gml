@@ -32,6 +32,10 @@ if (global.nets > 0)
 			global.day3TalkedToBoat = 1;
 		}
 	}
+	//else if (global.day == 5 && global.
+	/*
+	What the.. Some leftover trash is on my boat...those dang kids! If I take it to the dump now I won't be able to fish today.. What to do..
+	*/
 	else{
 		AButton.y = 20000;
 		BButton.y = 20000;

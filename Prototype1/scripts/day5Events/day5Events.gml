@@ -6,7 +6,32 @@ function day5Events(){
 		if(instance_exists(objDialogBubble)){
 			objDialogBubble.x = townPersonPier.x+25;
 			objDialogBubble.y = townPersonPier.y-50;
-			objDialogBubble.text = "“That's good to see. I should sign up to help sometime… But I have bigger fish to fry now, but maybe i should help...";
+			
+			objDialogBubble.text = "Fishing, fishing...";
+			
+			/*AButton.visible = true;
+			BButton.visible = true;
+			
+			objDialogBubble.text = "That's good to see. I should sign up to help sometime... But I have bigger fish to fry now, but maybe i should help...";
+			AButton.x = objDialogBubble.x;
+			AButton.y = objDialogBubble.y + objDialogBubble.height;
+			AButton.text = "Help";
+			
+			BButton.x = AButton.x+180;
+			BButton.y = objDialogBubble.y + objDialogBubble.height;
+			BButton.text = "Don't Help";
+			
+			
+			if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, AButton)){
+				global.pollution -= 10;
+				global.dialog5 = 1;
+				//objDialogBubble.text = "Thats okay";
+			}
+			if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y,BButton)){
+				global.pollution += 10;
+				global.dialog5 = 2;
+			}
+			*/
 			//objDialogBubble.text = "Fisherman Help! I'm in need of some money to donate to our local Recycling center. I'm afraid I need 1000 dollars but I promise you it'll be well worth it;";
 		}
 	}

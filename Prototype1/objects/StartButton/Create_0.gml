@@ -22,7 +22,7 @@ global.day3Dialog = 1;
 global.nomasNets = 0;
 global.dialog4 = 0;
 
-global.day = 4;
+global.day = 5;
 global.day3TalkedToBoat = 0;
 global.pollution = 0;
 global.caughtsickfish = 0;
