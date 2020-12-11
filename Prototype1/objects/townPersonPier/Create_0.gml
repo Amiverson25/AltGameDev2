@@ -7,16 +7,16 @@
 portrait_index = 6;
 voice = snd_voice2;
 name = "townPersonPier"
-global.day2_took_money = false;
-global.day3_took_money = false;
+//global.day2_took_money = false;
+//global.day3_took_money = false;
 
-if(global.day == 1){
+//if(global.day == 1){
 	text = ["Just another working day huh, I don't mind it at all. I'm doing what I love most and I can enjoy the fresh air and the clear oceans.",
-			"Looks like something is in the process of being built in the bay over there, they've been working on it for awhile now. I wonder what it will be.",
+			"Looks like something is in the process of being built in the bay over there, they've been working on it for a while now. I wonder what it will be.",
 			["I'll have to check it out!"
 			],
-			"Awesome, at some point today, you should go down to the pier dock and look through the binoculars!",
-			"Hi Fisherman, I'm here to help you on your way to Fishing Mastery! First, move around with WASD. Lets get over to the shop and get some supplies for the day. Huh? What's that? How can you understand me? I don’t really know myself, I guess it just works out that way. Let's get going.",
+			"Awesome, at some point today, I should go down to the pier dock and look through the binoculars!",
+			"Hi Fisherman, I'm here to help you on your way to Fishing Mastery! First, move around with WASD. Lets get over to the shop and get some supplies for the day. Huh? What's that? How can you understand me? I am not sure myself, I guess it just works out that way. Lets get going.",
 			["Hmm, okay. This is really weird. A talking seal telling me what to do? I must have drank way too much last night."]
 	
 	];
@@ -34,7 +34,7 @@ if(global.day == 1){
 		//portrait_index = 2,
 	];
 	
-}
+/*}
 
 /*if(global.day == 2){// and global.day2_took_money = false){
 	//Hello, (fisherman name) I just wanted to let you know that my kids will only eat the fish you catch! It's a wonder really, before buying from you they refused to eat fish. Here's something to show my gratitude.
@@ -56,7 +56,7 @@ if(global.day == 1){
 	
 }*/
 
-if(global.day == 3){// and global.day3_took_money = false){
+/*if(global.day == 3){// and global.day3_took_money = false){
 	text = ["Dear Fisherman: I come with an offer today from yours truly Jenkin's Mc WasteBin. Your notorious catching methods have reached my ears and I am most interested in forming a small investment in your business.",
 			" Don't worry I wont butt in too much. All I ask  is a fair share in your caught fish each day. I'll even give you some money to help out. Sounds like a fair deal right?",
 			["Take 500", 
