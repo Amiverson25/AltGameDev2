@@ -81,7 +81,7 @@ if(global.day == 4){
 
 
 if(global.day == 5){
-	text = ["My Dad said that he was going to apply to that new factory nearby. You think that have awesome laser gun robots there?", 
+	text = ["My Dad said that he was going to apply to that new factory nearby. You think they have awesome laser gun robots there?", 
 			"I don't think its that kind of factory kid.",
 			"But my friend said he saw them fisherman and crates of weird looking fish.", 
 			"I think you should be focusing on school work kid, don't believe everything you hear."];

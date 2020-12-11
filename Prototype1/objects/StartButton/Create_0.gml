@@ -30,10 +30,10 @@ global.day3Dialog = 1;
 global.nomasNets = 0;
 global.dialog4 = 0;
 
-global.day = 2;
+global.day = 1;
 global.day3TalkedToBoat = 0;
 global.day5TalkedToBoat = 0;
-global.pollution = 0;
+global.pollution = 10;
 global.caughtsickfish = 0;
 global.savings = 1500;
 global.new_total_savings = 0;
@@ -47,9 +47,9 @@ global.pierManDialog = 1;
 global.dialogTownMan = 1;
 
 global.shop = 0;
-global.rent = 700;
-global.gas = 100;
-global.electric = 100;
+global.rent = 800;
+global.gas = 200;
+global.electric = 200;
 global.Food = 100;
 global.totalexpenses = 0;
 global.nets = 0;

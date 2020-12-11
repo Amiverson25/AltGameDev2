@@ -4,7 +4,7 @@ if(instance_exists(scoreObject) && instance_exists(Net) ){
 	scoreBoardGB.text = "Fish Caught: " + string(scoreObject.fishCaught);
 	scoreBoard.text = "Garbage in Net: " + string(Net.scoreGarbage);
 	if((keyboard_check_pressed( ord("W")) || keyboard_check_pressed( ord("S"))) && Net.scoreGarbage < 15) {
-		objDialogBubble.text = "Good job! Try to catch 20 fish, and don't catch over 20 garbage";// as you can while avoiding the Garbage";
+		objDialogBubble.text = "Good job! Try to catch 22 fish, and don't let your nets break.";// as you can while avoiding the Garbage";
 		Net.startGame = true;
 	}
 	if(Net.scoreGarbage == 15){
