@@ -6,7 +6,7 @@
 
 portrait_index = 6;
 voice = snd_voice2;
-name = "townPersonPier"
+name = "Town Person"
 global.day2_took_money = false;
 global.day3_took_money = false;
 
@@ -55,6 +55,7 @@ if(global.day == 1){
 	];
 	
 }*/
+/*
 
 if(global.day == 3){// and global.day3_took_money = false){
 	text = ["Dear Fisherman: I come with an offer today from yours truly Jenkin's Mc WasteBin. Your notorious catching methods have reached my ears and I am most interested in forming a small investment in your business.",

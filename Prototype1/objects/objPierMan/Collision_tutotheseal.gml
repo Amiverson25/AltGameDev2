@@ -2,12 +2,13 @@
 // You can write your code in this editor
 
 /// @description Dialog here
-objDialogBubble.visible = true;
+
 YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
 YesButton.y = objDialogBubble.y+ objDialogBubble.height;
 YesButton.visible = false;
 
 if(global.day == 1){
+	objDialogBubble.visible = true;
 	switch(global.pierManDialog){
 			case 1:
 				

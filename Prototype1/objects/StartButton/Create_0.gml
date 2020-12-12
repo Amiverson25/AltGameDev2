@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 audio_play_sound(StartMusic, 0, false);
-globalvar fishyy;
+//globalvar fishyy;
 globalvar smallFish;
 globalvar mediFish;
 globalvar largFish;
@@ -30,7 +30,7 @@ global.day3Dialog = 1;
 global.nomasNets = 0;
 global.dialog4 = 0;
 
-global.day = 2;
+global.day = 1;
 global.day3TalkedToBoat = 0;
 global.day5TalkedToBoat = 0;
 global.pollution = 0;
@@ -40,7 +40,7 @@ global.new_total_savings = 0;
 global.smallFish = 0;
 global.mediFish = 0;
 global.largFish = 0;
-global.fishyy = 0; //still doesn't make sense
+//global.fishyy = 0; //still doesn't make sense
 global.caughtTrash = 0;
 
 global.pierManDialog = 1;

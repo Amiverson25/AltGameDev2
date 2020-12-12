@@ -30,7 +30,7 @@ function day3Events(){
 					global.pollution += 5;
 					global.nomasNets = 2;
 				}
-				else if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, AButton)){
+				else if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, BButton)){
 					AButton.visible = false;
 					BButton.visible = false;
 					objDialogBubble.text = "Thank you fisherman!";

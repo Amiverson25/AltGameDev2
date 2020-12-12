@@ -58,7 +58,7 @@ else if (global.day == 6 && global.acceptedHomeless == 1){
 	AButton.y = objDialogBubble.y + objDialogBubble.height;
 	BButton.y = 10000;//objDialogBubble.y+ objDialogBubble.height;
 	AButton.text = "Hmmm...";
-	objDialogBubble.text = "Hey there fisherman, Don't mind me I’ve been just dumping my trash into the ocean in accord that I have no way to get to the  dump from here. You Wouldn't help me earlier so I had no choice. I wouldn’t worry about it Fisherman, what we humans do only affects mother nature by a miniscule amount. HAHA.";
+	objDialogBubble.text = "Hey there fisherman, Don't mind me I've been just dumping my trash into the ocean in accord that I have no way to get to the dump from here. You wouldn't help me earlier so I had no choice. I wouldn’t worry about it Fisherman, what we humans do only affects mother nature by a miniscule amount. HAHA.";
 	
 	if(mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, AButton)){
 		global.talkedToHomeless = 3;

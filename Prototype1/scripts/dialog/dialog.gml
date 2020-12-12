@@ -20,6 +20,9 @@ function dialog(){
 	{
 		day6Events();
 	}
+	else{
+		objDialogBubble.text = "just another day fishing!";
+	}
 	
 	
 	/*if(instance_exists(objPierMan)){

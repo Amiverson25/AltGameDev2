@@ -44,7 +44,7 @@ function day2Event(){
 	}
 	switch (global.day2Dialog){
 		case 1:
-			objDialogBubble.text = "Hi (fisherman name) yesterday I wasn't able to buy some fish because it was sold out! I'm really craving fish so would it be alright if I got first dibs on your catch tonight? I'll even throw in this net I found by the dock here, What do you say?" + string(day2Dialog);
+			objDialogBubble.text = "Hi Fisherman, yesterday I wasn't able to buy some fish because it was sold out! I'm really craving fish so would it be alright if I got first dibs on your catch tonight? I'll even throw in this net I found by the dock here, What do you say?" + string(day2Dialog);
 			break;
 		case 2:
 			AButton.visible = false;

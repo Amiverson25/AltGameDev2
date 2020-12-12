@@ -24,7 +24,7 @@ if(instance_exists(scoreObject) && instance_exists(Net) ){
 		//instance_destroy(Fish);
 	}
 	if(scoreObject.fishCaught  == 22){
-		global.fishyy = 1;
+		//global.fishyy = 1;
 		//global.smallFish = scoreObject.smolFish;
 		//global.mediFish = scoreObject.medFish;
 		//global.largFish = scoreObject.bigFish;
@@ -32,7 +32,7 @@ if(instance_exists(scoreObject) && instance_exists(Net) ){
 		room = financeReport;
 	}
 	if(global.nets <= 0){
-		global.fishyy = 1;
+		//global.fishyy = 1;
 		room = financeReport;
 		
 	}
