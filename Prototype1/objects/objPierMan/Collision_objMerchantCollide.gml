@@ -25,7 +25,7 @@ if(instance_exists(ShopButton) && instance_exists(ShopButton2)){
 				break;
 			case 1:
 				objDialogBubble.visible = true;
-				objDialogBubble.text = "Right now, I am selling a standard fishing net ($100) as well as a new one created with recycled material ($500).";
+				objDialogBubble.text = "Right now, I am selling a standard fishing net ($200) as well as a new one created with recycled material ($500).";
 				NevermindButton.text = "Nevermind.";
 				NevermindButton.visible = true;
 				ShopButton.visible = true;

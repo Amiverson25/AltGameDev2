@@ -117,7 +117,7 @@ if(global.day == 6){
 if(global.day == 7 and global.day_7_donate = false){
 	text = ["Keep our bay clean! Reduce, Reuse, Recycle! Please help us in the fight against pollution. Donate now. Only 3000 dollars to help our foundation get a real boost in the fight.",
 			"Oh, should I donate?",
-			["Donate 3000", 
+			["Donate 4000", 
 			"Don't Donate"
 			],
 			["I hope this donation does some good."
@@ -131,7 +131,7 @@ if(global.day == 7 and global.day_7_donate = false){
 		-1,
 		-1,
 		[
-			[change_savings_donate_day7, "savings", 3000],
+			[change_savings_donate_day7, "savings", 4000],
 			[change_savings_donate_day7_no, "savings", 0],
 		],
 		[
