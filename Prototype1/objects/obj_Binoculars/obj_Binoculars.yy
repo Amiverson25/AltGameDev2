@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "TutorialButton",
-    "path": "sprites/TutorialButton/TutorialButton.yy",
+    "name": "coin_op_binoculars",
+    "path": "sprites/coin_op_binoculars/coin_op_binoculars.yy",
   },
   "solid": false,
   "visible": true,
