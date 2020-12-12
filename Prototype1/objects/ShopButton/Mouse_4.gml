@@ -8,7 +8,7 @@ global.shop += 200;
 global.savings -= 200;
 global.nets+=1;
 objPierBoat.startDayOfFishing2++;
-global.nomasNets = 2;
+//global.nomasNets = 2;
 /*if(instance_exists(objPierMan)){
 	objPierMan.counterTimer++;
 }

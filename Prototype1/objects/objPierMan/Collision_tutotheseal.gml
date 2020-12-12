@@ -6,6 +6,7 @@
 YesButton.x = objDialogBubble.x +objDialogBubble.width/4;
 YesButton.y = objDialogBubble.y+ objDialogBubble.height;
 YesButton.visible = false;
+objDialogBubble.visible = false;
 
 if(global.day == 1){
 	objDialogBubble.visible = true;
